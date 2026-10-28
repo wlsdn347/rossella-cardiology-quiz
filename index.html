@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#213183">
+  <meta name="description" content="Four 50-question cardiology review tests built from Rossella's PDF study materials.">
+  <title>Rossella’s Cardiology Quiz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <button class="brand" id="homeButton" type="button" aria-label="Return to test selection">
+      <span class="brand-mark" aria-hidden="true">R</span>
+      <span><strong>Rossella’s Quiz</strong><small>Cardiology review</small></span>
+    </button>
+    <button class="ghost-button" id="historyButton" type="button">History</button>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <dialog id="historyDialog" class="history-dialog">
+    <div class="dialog-head">
+      <div><span class="eyebrow">LOCAL LEARNING DATA</span><h2>Study history</h2></div>
+      <button class="icon-button" id="closeHistory" type="button" aria-label="Close">×</button>
+    </div>
+    <p class="history-privacy">Your results stay in this browser on this device. Nothing is uploaded.</p>
+    <div id="historyContent"></div>
+  </dialog>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

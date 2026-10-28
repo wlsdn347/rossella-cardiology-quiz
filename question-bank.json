@@ -1,0 +1,3883 @@
+[
+  {
+    "id": "q001",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 15,
+    "explanation": "Concetto chiave del materiale: Il nodo A-V è la struttura ideale per il realizzarsi del rientro, poiché possiede già in condizioni fisiologiche 2 vie con diversa refrattarietà e velocità di conduzione.",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "image": "assets/figures/00-p008.jpg",
+    "imageAlt": "Figura tratta da 1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf, pagina 8",
+    "imagePage": 8,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl nodo A-V è la struttura ideale per il realizzarsi del ________, poiché possiede già in condizioni fisiologiche 2 vie con diversa refrattarietà e velocità di conduzione.",
+    "options": [
+      "bradicardia",
+      "rientro",
+      "automatismo",
+      "attività triggerata",
+      "tachicardia ventricolare"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "A"
+  },
+  {
+    "id": "q002",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 11,
+    "explanation": "Concetto chiave del materiale: Perché il rientro abbia luogo, è necessario che siano contemporaneamente presenti 3 elementi fondamentali: il circuito, il blocco unidirezionale, la conduzione rallentata (ridotta velocità di propagazione).",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPerché il ________ abbia luogo, è necessario che siano contemporaneamente presenti 3 elementi fondamentali: il circuito, il blocco unidirezionale, la conduzione rallentata (ridotta velocità di propagazione).",
+    "options": [
+      "attività triggerata",
+      "preeccitazione",
+      "automatismo",
+      "tachicardia ventricolare",
+      "rientro"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "B"
+  },
+  {
+    "id": "q003",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 24,
+    "explanation": "Concetto chiave del materiale: Tuttavia, in circa il 20% dei bambini con preeccitazione è possibile riscontrare una cardiopatia congenita (anomalia di Ebstein).",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTuttavia, in circa il 20% dei bambini con ________ è possibile riscontrare una cardiopatia congenita (anomalia di Ebstein).",
+    "options": [
+      "tachicardia ventricolare",
+      "bradicardia",
+      "rientro",
+      "preeccitazione",
+      "attività triggerata"
+    ],
+    "answer": "preeccitazione",
+    "displayAnswer": "preeccitazione",
+    "set": "C"
+  },
+  {
+    "id": "q004",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 18,
+    "explanation": "Concetto chiave del materiale: Tachicardia da Rientro Nodale (AVNRT) La tachicardia da rientro nodale rappresenta i 2/3 circa di tutte le TPS e si riscontra nel 2-3% della popolazione generale.",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n________ (AVNRT) La tachicardia da rientro nodale rappresenta i 2/3 circa di tutte le TPS e si riscontra nel 2-3% della popolazione generale.",
+    "options": [
+      "tomografia computerizzata",
+      "microvascular obstruction",
+      "tachicardia da rientro nodale",
+      "resincronizzazione cardiaca",
+      "fibrillazione ventricolare"
+    ],
+    "answer": "tachicardia da rientro nodale",
+    "displayAnswer": "tachicardia da rientro nodale",
+    "set": "D"
+  },
+  {
+    "id": "q005",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Soltanto le prime possiedono la capacità dell’automatismo, cioè sono in grado di iniziare il processo di depolarizzazione, che poi si trasmette alle altre cellule.",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSoltanto le prime possiedono la capacità dell’________, cioè sono in grado di iniziare il processo di depolarizzazione, che poi si trasmette alle altre cellule.",
+    "options": [
+      "bradicardia",
+      "automatismo",
+      "rientro",
+      "attività triggerata",
+      "tachicardia ventricolare"
+    ],
+    "answer": "automatismo",
+    "displayAnswer": "automatismo",
+    "set": "A"
+  },
+  {
+    "id": "q006",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 20,
+    "explanation": "Concetto chiave del materiale: La tachicardia da rientro con conduzione anterograda lungo la via lenta e retrograda lungo la rapida viene definite di tipo “comune”.",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa tachicardia da ________ con conduzione anterograda lungo la via lenta e retrograda lungo la rapida viene definite di tipo “comune”.",
+    "options": [
+      "bradicardia",
+      "attività triggerata",
+      "automatismo",
+      "rientro",
+      "preeccitazione"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "B"
+  },
+  {
+    "id": "q007",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Per attività triggerata si intende una particolare forma di automatismo che richiede un trigger che determina l’inizio dell’impulso.",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPer ________ si intende una particolare forma di automatismo che richiede un trigger che determina l’inizio dell’impulso.",
+    "options": [
+      "automatismo",
+      "preeccitazione",
+      "attività triggerata",
+      "rientro",
+      "tachicardia ventricolare"
+    ],
+    "answer": "attività triggerata",
+    "displayAnswer": "attività triggerata",
+    "set": "C"
+  },
+  {
+    "id": "q008",
+    "source": "1. Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo.pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: Fra le aritmie da post- potenziali vi sono la “Torsione di punte”, una tachicardia ventricolare che si associa in genere a QT lungo, le aritmie da digitale, quelle da disionia e quelle indotte da catecolamine.",
+    "topic": "Vergara -Meccanismi delle aritmie_ automaticità, attività triggerata, rientro - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nFra le aritmie da post- potenziali vi sono la “Torsione di punte”, una ________ che si associa in genere a QT lungo, le aritmie da digitale, quelle da disionia e quelle indotte da catecolamine.",
+    "options": [
+      "automatismo",
+      "attività triggerata",
+      "rientro",
+      "tachicardia ventricolare",
+      "bradicardia"
+    ],
+    "answer": "tachicardia ventricolare",
+    "displayAnswer": "tachicardia ventricolare",
+    "set": "D"
+  },
+  {
+    "id": "q009",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: In questo unico studio relativamente recente che ha confrontato la metodica SPECT con la metodica PET, è stato evidenziato in maniera chiara come nel 41% tutte quelle imamgini che hanno severa ischemia alla PET vengono considerate come non ischemiche o con mild ischemia alla SPECT.",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "image": "assets/figures/01-p001.jpg",
+    "imageAlt": "Figura tratta da 10. SPECT e PET nella valutazione di sospetta CAD.pdf, pagina 1",
+    "imagePage": 1,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn questo unico studio relativamente recente che ha confrontato la metodica ________ con la metodica PET, è stato evidenziato in maniera chiara come nel 41% tutte quelle imamgini che hanno severa ischemia alla PET vengono considerate come non ischemiche o con mild ischemia alla SPECT.",
+    "options": [
+      "RMN",
+      "PET",
+      "IVUS",
+      "CCTA",
+      "SPECT"
+    ],
+    "answer": "SPECT",
+    "displayAnswer": "SPECT",
+    "set": "A"
+  },
+  {
+    "id": "q010",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Pertanto, rimane essenzialmente intrappolato nel miocardio, consentendo un tempo adeguato a visualizzare l'assorbimento regionale del glucosio mediante PET.",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPertanto, rimane essenzialmente intrappolato nel ________, consentendo un tempo adeguato a visualizzare l'assorbimento regionale del glucosio mediante PET.",
+    "options": [
+      "miocardio",
+      "ventricolo sinistro",
+      "microcircolo",
+      "atrio sinistro",
+      "endocardio"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "B"
+  },
+  {
+    "id": "q011",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: RUOLO DELLA RISERVA CORONARICA La riserva coronarica è uno stratificatore del rischio del paziente sia in assenza che in presenza di difetto di perfusione; è dato dal rapporto flusso iperemico/flusso a riposo.",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nRUOLO DELLA ________ La riserva coronarica è uno stratificatore del rischio del paziente sia in assenza che in presenza di difetto di perfusione; è dato dal rapporto flusso iperemico/flusso a riposo.",
+    "options": [
+      "riserva coronarica",
+      "shock cardiogeno",
+      "prasugrel",
+      "colchicina",
+      "eparina"
+    ],
+    "answer": "riserva coronarica",
+    "displayAnswer": "riserva coronarica",
+    "set": "C"
+  },
+  {
+    "id": "q012",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: SRS = Summed Rest Score = somma dei punteggi a riposo Il SDS (Summed Difference Score) rappresenta la differenza tra la perfusione del miocardio sotto stress e a riposo, ed è utilizzato per quantificare l'entità dell’ischemia (cioè, la riduzione reversibile del flusso sanguigno al cuore): .",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSRS = Summed Rest Score = somma dei punteggi a riposo Il SDS (Summed Difference Score) rappresenta la differenza tra la perfusione del ________ sotto stress e a riposo, ed è utilizzato per quantificare l'entità dell’ischemia (cioè, la riduzione reversibile del flusso sanguigno al cuore): .",
+    "options": [
+      "ventricolo sinistro",
+      "microcircolo",
+      "epicardio",
+      "miocardio",
+      "endocardio"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "D"
+  },
+  {
+    "id": "q013",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 11,
+    "explanation": "Concetto chiave del materiale: Pertanto, tutti questi fattori hanno permesso di formulare un nuovo modello concettuale patofisiologico che richiede necessariamente la valutazione del microcircolo e della riserva coronarica e da questo punto di vista siamo altamente standardizzati.",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPertanto, tutti questi fattori hanno permesso di formulare un nuovo modello concettuale patofisiologico che richiede necessariamente la valutazione del microcircolo e della ________ e da questo punto di vista siamo altamente standardizzati.",
+    "options": [
+      "prasugrel",
+      "riserva coronarica",
+      "resincronizzazione cardiaca",
+      "fibrillazione ventricolare",
+      "instantaneous wave-free ratio"
+    ],
+    "answer": "riserva coronarica",
+    "displayAnswer": "riserva coronarica",
+    "set": "A"
+  },
+  {
+    "id": "q014",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Serve in due casi fondamentali, il primo quando si deve mandare il paziente a CABG e la seconda è paziente con CTO.",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nServe in due casi fondamentali, il primo quando si deve mandare il paziente a ________ e la seconda è paziente con CTO.",
+    "options": [
+      "IABP",
+      "contropulsatore aortico",
+      "Impella",
+      "CTO",
+      "CABG"
+    ],
+    "answer": "CABG",
+    "displayAnswer": "CABG",
+    "set": "B"
+  },
+  {
+    "id": "q015",
+    "source": "10. SPECT e PET nella valutazione di sospetta CAD.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: La riserva coronarica è uno stratificatore del rischio del paziente sia in assenza che in.",
+    "topic": "SPECT e PET nella valutazione di sospetta CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa ________ è uno stratificatore del rischio del paziente sia in assenza che in.",
+    "options": [
+      "disfunzione microvascolare",
+      "fractional flow reserve",
+      "riserva coronarica",
+      "QT lungo",
+      "potenziale d'azione"
+    ],
+    "answer": "riserva coronarica",
+    "displayAnswer": "riserva coronarica",
+    "set": "C"
+  },
+  {
+    "id": "q016",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Alla coroTC ha placca ipodensa con rimodellamento positivo sull’IVA prossimale che determinava stenosi 60%.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "image": "assets/figures/02-p019.jpg",
+    "imageAlt": "Figura tratta da 11. La Mura Coro-TC e RMN nella CAD.pdf, pagina 19",
+    "imagePage": 19,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAlla coroTC ha placca ipodensa con rimodellamento positivo sull’________ prossimale che determinava stenosi 60%.",
+    "options": [
+      "arteria mammaria interna",
+      "CX",
+      "RCA",
+      "arteria radiale",
+      "IVA"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "D"
+  },
+  {
+    "id": "q017",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: Nelle acquisizioni LGE (che sono immagini acquisite a 1- 2 min dalla somministrazione del mdc con un tempo di inversione standard tra i 400-500) servono sia per la ricerca di trombi e sia per avere informazioni sulla microvascular obstruction.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNelle acquisizioni LGE (che sono immagini acquisite a 1- 2 min dalla somministrazione del mdc con un tempo di inversione standard tra i 400-500) servono sia per la ricerca di trombi e sia per avere informazioni sulla ________.",
+    "options": [
+      "microvascular obstruction",
+      "cicatrice",
+      "trombo intracavitario",
+      "edema miocardico",
+      "ematoma intramurario"
+    ],
+    "answer": "microvascular obstruction",
+    "displayAnswer": "microvascular obstruction",
+    "set": "A"
+  },
+  {
+    "id": "q018",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 18,
+    "explanation": "Concetto chiave del materiale: CASO 2: pz con STEMI inferiore di cui non si hanno notizie anamnestiche, coro negativa, sospetta dissezione.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCASO 2: pz con ________ inferiore di cui non si hanno notizie anamnestiche, coro negativa, sospetta dissezione.",
+    "options": [
+      "STEMI",
+      "ANOCA",
+      "INOCA",
+      "SCAD",
+      "CAD"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "B"
+  },
+  {
+    "id": "q019",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: Gli stent metallici (BMS) possono dare più artefatti da blooming rispetto ai DES, mentre i BRS (bioriassorbibili) sono visibili per il marker radiopaco.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nGli stent metallici (________) possono dare più artefatti da blooming rispetto ai DES, mentre i BRS (bioriassorbibili) sono visibili per il marker radiopaco.",
+    "options": [
+      "ECMO",
+      "BMS",
+      "PET",
+      "ILR",
+      "CMR"
+    ],
+    "answer": "BMS",
+    "displayAnswer": "BMS",
+    "set": "C"
+  },
+  {
+    "id": "q020",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Alla coronarografia il paziente ha poi effettivamente rivascolarizzato territori della destra e circonflessa.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAlla ________ il paziente ha poi effettivamente rivascolarizzato territori della destra e circonflessa.",
+    "options": [
+      "coronarografia",
+      "SPECT",
+      "RMN",
+      "CMR",
+      "OCT"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "D"
+  },
+  {
+    "id": "q021",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 18,
+    "explanation": "Concetto chiave del materiale: CASO 2: pz con STEMI inferiore di cui non si hanno notizie anamnestiche, coro negativa,.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCASO 2: pz con ________ inferiore di cui non si hanno notizie anamnestiche, coro negativa,.",
+    "options": [
+      "INOCA",
+      "SCAD",
+      "STEMI",
+      "NSTEMI",
+      "ANOCA"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "A"
+  },
+  {
+    "id": "q022",
+    "source": "11. La Mura Coro-TC e RMN nella CAD.pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: Hanno comunque un indice prognostico negativo per cui ripete la RMN a 1 mese.",
+    "topic": "La Mura Coro-TC e RMN nella CAD",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nHanno comunque un indice prognostico negativo per cui ripete la ________ a 1 mese.",
+    "options": [
+      "PET",
+      "OCT",
+      "coronarografia",
+      "CMR",
+      "RMN"
+    ],
+    "answer": "RMN",
+    "displayAnswer": "RMN",
+    "set": "B"
+  },
+  {
+    "id": "q023",
+    "source": "12. Cirillo - Accessi vascolari arteriosi e venosi.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: È il caso dei vasi calcifici, dei vasi molto piccoli, CTO, angolazione del vaso, le grosse tortuosità o lesioni di tipo B2 o di tipo C, quindi quelle più gravi.",
+    "topic": "Cirillo - Accessi vascolari arteriosi e venosi",
+    "image": "assets/figures/03-p001.jpg",
+    "imageAlt": "Figura tratta da 12. Cirillo - Accessi vascolari arteriosi e venosi.pdf, pagina 1",
+    "imagePage": 1,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nÈ il caso dei vasi calcifici, dei vasi molto piccoli, ________, angolazione del vaso, le grosse tortuosità o lesioni di tipo B2 o di tipo C, quindi quelle più gravi.",
+    "options": [
+      "contropulsatore aortico",
+      "Impella",
+      "CTO",
+      "ECMO",
+      "CABG"
+    ],
+    "answer": "CTO",
+    "displayAnswer": "CTO",
+    "set": "C"
+  },
+  {
+    "id": "q024",
+    "source": "12. Cirillo - Accessi vascolari arteriosi e venosi.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: Facciamo un po' di contrasto, non aspettiamo che la coronaria si svuoti (sbagliando) e subito facciamo una successiva iniezione, togliendo ossigeno a tutto il territorio di pertinenza della coronaria destra e inducendo una fibrillazione ventricolare in una coronaria che magari è anche sana.",
+    "topic": "Cirillo - Accessi vascolari arteriosi e venosi",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nFacciamo un po' di contrasto, non aspettiamo che la coronaria si svuoti (sbagliando) e subito facciamo una successiva iniezione, togliendo ossigeno a tutto il territorio di pertinenza della coronaria destra e inducendo una ________ in una coronaria che magari è anche sana.",
+    "options": [
+      "fibrillazione ventricolare",
+      "BAV",
+      "sincope",
+      "fibrillazione atriale",
+      "SCD"
+    ],
+    "answer": "fibrillazione ventricolare",
+    "displayAnswer": "fibrillazione ventricolare",
+    "set": "D"
+  },
+  {
+    "id": "q025",
+    "source": "12. Cirillo - Accessi vascolari arteriosi e venosi.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: La distrazione, anche durante una semplice coronarografia, può portare a problemi particolarmente importanti.",
+    "topic": "Cirillo - Accessi vascolari arteriosi e venosi",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa distrazione, anche durante una semplice ________, può portare a problemi particolarmente importanti.",
+    "options": [
+      "RMN",
+      "OCT",
+      "IVUS",
+      "coronarografia",
+      "RMC"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "A"
+  },
+  {
+    "id": "q026",
+    "source": "12. Cirillo - Accessi vascolari arteriosi e venosi.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Un'altra complicanza della semplice coronarografia può essere di tipo cerebrovascolare.",
+    "topic": "Cirillo - Accessi vascolari arteriosi e venosi",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn'altra complicanza della semplice ________ può essere di tipo cerebrovascolare.",
+    "options": [
+      "OCT",
+      "coronarografia",
+      "RMN",
+      "IVUS",
+      "CMR"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "B"
+  },
+  {
+    "id": "q027",
+    "source": "12. Cirillo - Accessi vascolari arteriosi e venosi.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Un'altra complicanza della semplice coronarografia può essere di tipo.",
+    "topic": "Cirillo - Accessi vascolari arteriosi e venosi",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn'altra complicanza della semplice ________ può essere di tipo.",
+    "options": [
+      "coronarografia",
+      "RMN",
+      "OCT",
+      "CCTA",
+      "PET"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "C"
+  },
+  {
+    "id": "q028",
+    "source": "13. Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Il rischio di sanguinamento maggiore con accesso femorale per PCI è dell’1-3% e si traduce in un tasso di trasfusioni di sangue, durata di degenza e mortalità a 30.",
+    "topic": "Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso",
+    "image": "assets/figures/04-p003.jpg",
+    "imageAlt": "Figura tratta da 13. Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso.pdf, pagina 3",
+    "imagePage": 3,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl rischio di sanguinamento maggiore con ________ per PCI è dell’1-3% e si traduce in un tasso di trasfusioni di sangue, durata di degenza e mortalità a 30.",
+    "options": [
+      "accesso venoso",
+      "accesso radiale",
+      "accesso brachiale",
+      "accesso ulnare",
+      "accesso femorale"
+    ],
+    "answer": "accesso femorale",
+    "displayAnswer": "accesso femorale",
+    "set": "D"
+  },
+  {
+    "id": "q029",
+    "source": "13. Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: 10. Si può eseguire un'angiografia attraverso la guaina micropuntura o il suo dilatatore interno per garantire una posizione ottimale della puntura prima dell'intervento coronarico percutaneo (PCI), e specialmente prima dell'accesso con grosso calibro.",
+    "topic": "Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n10. Si può eseguire un'angiografia attraverso la guaina micropuntura o il suo dilatatore interno per garantire una posizione ottimale della puntura prima dell'intervento coronarico percutaneo (________), e specialmente prima dell'accesso con grosso calibro.",
+    "options": [
+      "contropulsatore aortico",
+      "CABG",
+      "DAPT",
+      "Impella",
+      "PCI"
+    ],
+    "answer": "PCI",
+    "displayAnswer": "PCI",
+    "set": "A"
+  },
+  {
+    "id": "q030",
+    "source": "13. Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Come si vede nel secondo grafico le curve di mortalità si separano precocemente sottolineando l’associazione del beneficio con la procedura radiale. L’accesso radiale riduce il bisogno di trasfusione che è il più forte predittore di mortalità dopo PCI indipendentemente dal tipo di sanguinamento.",
+    "topic": "Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCome si vede nel secondo grafico le curve di mortalità si separano precocemente sottolineando l’associazione del beneficio con la procedura radiale. L’________ riduce il bisogno di trasfusione che è il più forte predittore di mortalità dopo PCI indipendentemente dal tipo di sanguinamento.",
+    "options": [
+      "accesso venoso",
+      "accesso brachiale",
+      "accesso femorale",
+      "accesso ulnare",
+      "accesso radiale"
+    ],
+    "answer": "accesso radiale",
+    "displayAnswer": "accesso radiale",
+    "set": "B"
+  },
+  {
+    "id": "q031",
+    "source": "13. Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: Si può eseguire un'angiografia attraverso la guaina micropuntura o il suo dilatatore interno per garantire una posizione ottimale della puntura prima dell'intervento coronarico percutaneo (PCI), e specialmente prima dell'accesso con grosso calibro.",
+    "topic": "Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSi può eseguire un'angiografia attraverso la guaina micropuntura o il suo dilatatore interno per garantire una posizione ottimale della puntura prima dell'intervento coronarico percutaneo (________), e specialmente prima dell'accesso con grosso calibro.",
+    "options": [
+      "Impella",
+      "CTO",
+      "PCI",
+      "CABG",
+      "IABP"
+    ],
+    "answer": "PCI",
+    "displayAnswer": "PCI",
+    "set": "C"
+  },
+  {
+    "id": "q032",
+    "source": "13. Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Sebbene l’accesso transradiale venga sempre più adottato e utilizzato per la PCI.",
+    "topic": "Giugliano Accessi vascolari diagnosi e gestione delle complicanze dell'accesso",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSebbene l’accesso transradiale venga sempre più adottato e utilizzato per la ________.",
+    "options": [
+      "ECMO",
+      "PCI",
+      "CTO",
+      "DAPT",
+      "Impella"
+    ],
+    "answer": "PCI",
+    "displayAnswer": "PCI",
+    "set": "D"
+  },
+  {
+    "id": "q033",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 14,
+    "explanation": "Concetto chiave del materiale: 3° CASO: IVA occlusa al tratto ostiale. È fondamentale immaginare la direzione del flusso a valle. Si procede con il passaggio della guida e il successivo posizionamento dello stent accuratamente all'ostio.",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n3° CASO: ________ occlusa al tratto ostiale. È fondamentale immaginare la direzione del flusso a valle. Si procede con il passaggio della guida e il successivo posizionamento dello stent accuratamente all'ostio.",
+    "options": [
+      "CX",
+      "IVA",
+      "arteria mammaria interna",
+      "LAD",
+      "arteria radiale"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "A"
+  },
+  {
+    "id": "q034",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 11,
+    "explanation": "Concetto chiave del materiale: La scala del trombo TIMI (TIMI thrombus scale) definisce i due estremi: il grado 0 indica l'assenza di trombo, mentre il grado 5 indica la presenza di un trombo che ostruisce completamente la coronaria, con diverse fasi intermedie di transizione.",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa scala del trombo ________ (TIMI thrombus scale) definisce i due estremi: il grado 0 indica l'assenza di trombo, mentre il grado 5 indica la presenza di un trombo che ostruisce completamente la coronaria, con diverse fasi intermedie di transizione.",
+    "options": [
+      "SYNTAX",
+      "GRACE",
+      "TIMI",
+      "IMR",
+      "LVEF"
+    ],
+    "answer": "TIMI",
+    "displayAnswer": "TIMI",
+    "set": "B"
+  },
+  {
+    "id": "q035",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 15,
+    "explanation": "Concetto chiave del materiale: 6° CASO: Ulteriore lesione dell'IVA che mostra un flusso rallentato nel tratto prossimale, una successiva occlusione completa e la presenza di calcificazioni nel tratto distale.",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n6° CASO: Ulteriore lesione dell'________ che mostra un flusso rallentato nel tratto prossimale, una successiva occlusione completa e la presenza di calcificazioni nel tratto distale.",
+    "options": [
+      "arteria mammaria interna",
+      "arteria radiale",
+      "LAD",
+      "CX",
+      "IVA"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "C"
+  },
+  {
+    "id": "q036",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: La proiezione craniale mostra che l'IVA è diffusamente malata e calcifica, fino a occludersi nel tratto medio, associata a un tronco anch'esso patologico.",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa proiezione craniale mostra che l'________ è diffusamente malata e calcifica, fino a occludersi nel tratto medio, associata a un tronco anch'esso patologico.",
+    "options": [
+      "LAD",
+      "arteria mammaria interna",
+      "arteria radiale",
+      "CX",
+      "IVA"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "D"
+  },
+  {
+    "id": "q037",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Lesioni Coronarografiche nell'Acuto e nel Cronico: Identificazione della CAD ostruttiva Ci concentreremo principalmente sulle lesioni che si possono riscontrare durante un esame coronarografico.",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLesioni Coronarografiche nell'Acuto e nel Cronico: Identificazione della ________ ostruttiva Ci concentreremo principalmente sulle lesioni che si possono riscontrare durante un esame coronarografico.",
+    "options": [
+      "CAD",
+      "STEMI",
+      "ANOCA",
+      "INOCA",
+      "NSTEMI"
+    ],
+    "answer": "CAD",
+    "displayAnswer": "CAD",
+    "set": "A"
+  },
+  {
+    "id": "q038",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: La CLASSIFICAZIONE DI DUKE non è quasi più utilizzata; metteva in risalto la localizzazione della placca rispetto alla biforcazione, distinguendo il tipo A (pre-branch) dal tipo B (post-branch).",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa CLASSIFICAZIONE DI ________ non è quasi più utilizzata; metteva in risalto la localizzazione della placca rispetto alla biforcazione, distinguendo il tipo A (pre-branch) dal tipo B (post-branch).",
+    "options": [
+      "accesso radiale",
+      "PAPi",
+      "troponina",
+      "Brugada",
+      "Duke"
+    ],
+    "answer": "Duke",
+    "displayAnswer": "Duke",
+    "set": "B"
+  },
+  {
+    "id": "q039",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 20,
+    "explanation": "Concetto chiave del materiale: Coronaria destra con parziale riabitazione dell'IVA. Notiamo una serie di stent posizionati dal tratto medio al tratto distale che risultano, tra l'altro, sotto-espansi. La lesione è stata pre-dilatata nei tratti sub-occlusivi (l'immagine mostra il controllo IVUS degli stent sotto-espansi).",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCoronaria destra con parziale riabitazione dell'IVA. Notiamo una serie di stent posizionati dal tratto medio al tratto distale che risultano, tra l'altro, sotto-espansi. La lesione è stata pre-dilatata nei tratti sub-occlusivi (l'immagine mostra il controllo ________ degli stent sotto-espansi).",
+    "options": [
+      "PET",
+      "OCT",
+      "IVUS",
+      "RMN",
+      "CCTA"
+    ],
+    "answer": "IVUS",
+    "displayAnswer": "IVUS",
+    "set": "C"
+  },
+  {
+    "id": "q040",
+    "source": "14. Bardi Coronarografia- identificazione della CAD ostruttiva.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: In un contesto di acuto, si può iniziare con una proiezione SPIDER (caudale sinistra), ottimale per visualizzare il tronco comune e le lesioni ostiali dell'arteria interventricolare anteriore (IVA) e della circonflessa (CX).",
+    "topic": "Bardi Coronarografia- identificazione della CAD ostruttiva",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn un contesto di acuto, si può iniziare con una proiezione SPIDER (caudale sinistra), ottimale per visualizzare il tronco comune e le lesioni ostiali dell'arteria interventricolare anteriore (________) e della circonflessa (CX).",
+    "options": [
+      "arteria radiale",
+      "arteria mammaria interna",
+      "RCA",
+      "LAD",
+      "IVA"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "D"
+  },
+  {
+    "id": "q041",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: E anche se andiamo a vedere tutti gli studi che sono stati pubblicati, grosso modo dicono tutti quanti la stessa cosa: il test per CAD varia tra il 17% e il 36%, quindi solo una piccola quota di pazienti viene valutata per CAD.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "image": "assets/figures/06-p019.jpg",
+    "imageAlt": "Figura tratta da 16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf, pagina 19",
+    "imagePage": 19,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nE anche se andiamo a vedere tutti gli studi che sono stati pubblicati, grosso modo dicono tutti quanti la stessa cosa: il test per ________ varia tra il 17% e il 36%, quindi solo una piccola quota di pazienti viene valutata per CAD.",
+    "options": [
+      "SCAD",
+      "STEMI",
+      "CAD",
+      "ANOCA",
+      "NSTEMI"
+    ],
+    "answer": "CAD",
+    "displayAnswer": "CAD",
+    "set": "A"
+  },
+  {
+    "id": "q042",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 10,
+    "explanation": "Concetto chiave del materiale: Vediamo che OMT e OMT e PCI sono associati allo stesso tasso di eventi, che è altissimo: 50% a 8 anni.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nVediamo che OMT e OMT e ________ sono associati allo stesso tasso di eventi, che è altissimo: 50% a 8 anni.",
+    "options": [
+      "PCI",
+      "IABP",
+      "CTO",
+      "Impella",
+      "ECMO"
+    ],
+    "answer": "PCI",
+    "displayAnswer": "PCI",
+    "set": "B"
+  },
+  {
+    "id": "q043",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Quindi lo scompenso cardiaco associato a CAD determina un eccesso di mortalità del doppio rispetto alla presenza della sola CAD in assenza di scompenso cardiaco.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuindi lo scompenso cardiaco associato a ________ determina un eccesso di mortalità del doppio rispetto alla presenza della sola CAD in assenza di scompenso cardiaco.",
+    "options": [
+      "INOCA",
+      "MINOCA",
+      "SCAD",
+      "CAD",
+      "NSTEMI"
+    ],
+    "answer": "CAD",
+    "displayAnswer": "CAD",
+    "set": "C"
+  },
+  {
+    "id": "q044",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 15,
+    "explanation": "Concetto chiave del materiale: La prevenzione delle aritmie ventricolari: questo è un altro grande cavallo di battaglia per la rivascolarizzazione.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa prevenzione delle aritmie ventricolari: questo è un altro grande cavallo di battaglia per la ________.",
+    "options": [
+      "angioplastica",
+      "fibrinolisi",
+      "cardioversione",
+      "ablazione",
+      "rivascolarizzazione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "D"
+  },
+  {
+    "id": "q045",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: La rivascolarizzazione è stata per anni invocata come metodo per il miglioramento prognostico, anche.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa ________ è stata per anni invocata come metodo per il miglioramento prognostico, anche.",
+    "options": [
+      "ablazione",
+      "terapia medica",
+      "fibrinolisi",
+      "rivascolarizzazione",
+      "cardioversione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "A"
+  },
+  {
+    "id": "q046",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Questi sono studi dalla Danimarca, è abbastanza chiaro questo trend, quindi la presenza di CAD.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesti sono studi dalla Danimarca, è abbastanza chiaro questo trend, quindi la presenza di ________.",
+    "options": [
+      "ANOCA",
+      "STEMI",
+      "SCAD",
+      "CAD",
+      "INOCA"
+    ],
+    "answer": "CAD",
+    "displayAnswer": "CAD",
+    "set": "B"
+  },
+  {
+    "id": "q047",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Quindi nella fisiopatologia dello scompenso cardiaco nei pazienti con CAD si ritiene che probabilmente quello che accade è che si passa attraverso dei cicli di stunning ripetitivi che poi determinano la transizione a una forma di ibernazione miocardica cronica.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuindi nella fisiopatologia dello scompenso cardiaco nei pazienti con ________ si ritiene che probabilmente quello che accade è che si passa attraverso dei cicli di stunning ripetitivi che poi determinano la transizione a una forma di ibernazione miocardica cronica.",
+    "options": [
+      "INOCA",
+      "CAD",
+      "STEMI",
+      "MINOCA",
+      "ANOCA"
+    ],
+    "answer": "CAD",
+    "displayAnswer": "CAD",
+    "set": "C"
+  },
+  {
+    "id": "q048",
+    "source": "16. Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Considerate che i dati PCI verso CABG sulla qualità di vita non sono questi.",
+    "topic": "Piccolo Rivascolarizzazione nel paziente con disfunzione ventricolare sinistra",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nConsiderate che i dati PCI verso ________ sulla qualità di vita non sono questi.",
+    "options": [
+      "DAPT",
+      "Impella",
+      "ECMO",
+      "contropulsatore aortico",
+      "CABG"
+    ],
+    "answer": "CABG",
+    "displayAnswer": "CABG",
+    "set": "D"
+  },
+  {
+    "id": "q049",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 10,
+    "explanation": "Concetto chiave del materiale: È possibile poi rivascolarizzare la porzione destra con una rivascolarizzazione ibrida: una parte in open e una parte completata in emodinamica.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "image": "assets/figures/07-p005.jpg",
+    "imageAlt": "Figura tratta da 17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf, pagina 5",
+    "imagePage": 5,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nÈ possibile poi rivascolarizzare la porzione destra con una ________ ibrida: una parte in open e una parte completata in emodinamica.",
+    "options": [
+      "ablazione",
+      "cardioversione",
+      "terapia medica",
+      "fibrinolisi",
+      "rivascolarizzazione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "A"
+  },
+  {
+    "id": "q050",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: Rivascolarizzazione coronarica chirurgica (CABG) con tecnica off-pump: non c’è una reale superiorità di una tecnica rispetto all’altra, poiché molto dipende dall’expertise dell’operatore e dal tipo di paziente.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n________ coronarica chirurgica (CABG) con tecnica off-pump: non c’è una reale superiorità di una tecnica rispetto all’altra, poiché molto dipende dall’expertise dell’operatore e dal tipo di paziente.",
+    "options": [
+      "rivascolarizzazione",
+      "ablazione",
+      "terapia medica",
+      "cardioversione",
+      "fibrinolisi"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "B"
+  },
+  {
+    "id": "q051",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Ad oggi è un intervento che, nonostante la sempre crescente influenza dell’emodinamica e delle procedure endovascolari, rimane una procedura con determinate caratteristiche, che permette spesso di ottenere una rivascolarizzazione completa per il paziente complesso.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAd oggi è un intervento che, nonostante la sempre crescente influenza dell’emodinamica e delle procedure endovascolari, rimane una procedura con determinate caratteristiche, che permette spesso di ottenere una ________ completa per il paziente complesso.",
+    "options": [
+      "angioplastica",
+      "cardioversione",
+      "fibrinolisi",
+      "rivascolarizzazione",
+      "ablazione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "C"
+  },
+  {
+    "id": "q052",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: STS per la valutazione della mortalità intraoperatoria - EuroSCORE II per la mortalità intraospedaliera - Score SYNTAX, comunemente utilizzato per lo studio dell’anatomia del circolo coronarico.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSTS per la valutazione della mortalità intraoperatoria - EuroSCORE II per la mortalità intraospedaliera - Score ________, comunemente utilizzato per lo studio dell’anatomia del circolo coronarico.",
+    "options": [
+      "SYNTAX",
+      "LVEF",
+      "FFR",
+      "iFR",
+      "CFR"
+    ],
+    "answer": "SYNTAX",
+    "displayAnswer": "SYNTAX",
+    "set": "D"
+  },
+  {
+    "id": "q053",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Può essere adatta per stenosi molto distali sull’IVA, dove, ad esempio, una peduncolata potrebbe non arrivare.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPuò essere adatta per stenosi molto distali sull’________, dove, ad esempio, una peduncolata potrebbe non arrivare.",
+    "options": [
+      "IVA",
+      "arteria mammaria interna",
+      "RCA",
+      "CX",
+      "arteria radiale"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "A"
+  },
+  {
+    "id": "q054",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Non vengono quasi mai effettuati con l’AMIS, poiché deputata alla rivascolarizzazione dell’IVA.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNon vengono quasi mai effettuati con l’AMIS, poiché deputata alla ________ dell’IVA.",
+    "options": [
+      "ablazione",
+      "rivascolarizzazione",
+      "terapia medica",
+      "cardioversione",
+      "fibrinolisi"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "B"
+  },
+  {
+    "id": "q055",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Pensando al circolo coronarico di un paziente diabetico, tutti quanti abbiamo presente le classiche coronarie a corona di rosario; in questo caso sicuramente una rivascolarizzazione ottimale si può ottenere con una rivascolarizzazione chirurgica piuttosto che con quella percutanea.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPensando al circolo coronarico di un paziente diabetico, tutti quanti abbiamo presente le classiche coronarie a corona di rosario; in questo caso sicuramente una ________ ottimale si può ottenere con una rivascolarizzazione chirurgica piuttosto che con quella percutanea.",
+    "options": [
+      "fibrinolisi",
+      "cardioversione",
+      "ablazione",
+      "terapia medica",
+      "rivascolarizzazione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "C"
+  },
+  {
+    "id": "q056",
+    "source": "17. Ass. Pilato Rivascolarizzazione miocardica chirurgica.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: Dunque, per pazienti che necessitano di una rivascolarizzazione completa, ma che comunque non partono da una condizione di base ottimale può essere utilizzata questa tecnica.",
+    "topic": "Ass. Pilato Rivascolarizzazione miocardica chirurgica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDunque, per pazienti che necessitano di una ________ completa, ma che comunque non partono da una condizione di base ottimale può essere utilizzata questa tecnica.",
+    "options": [
+      "cardioversione",
+      "terapia medica",
+      "rivascolarizzazione",
+      "ablazione",
+      "angioplastica"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "D"
+  },
+  {
+    "id": "q057",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 19,
+    "explanation": "Concetto chiave del materiale: La valutazione della placca non culprit è la stessa nello STEMI e nell’NSTEMI. Le cara7 erisAche di placca ad alto rischio sono grossomodo uguali e si distribuiscono in maniera abbastanza equivalente tra NSTEMI e STEMI.",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "image": "assets/figures/08-p001.jpg",
+    "imageAlt": "Figura tratta da 18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf, pagina 1",
+    "imagePage": 1,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa valutazione della placca non culprit è la stessa nello STEMI e nell’________. Le cara7 erisAche di placca ad alto rischio sono grossomodo uguali e si distribuiscono in maniera abbastanza equivalente tra NSTEMI e STEMI.",
+    "options": [
+      "CAD",
+      "STEMI",
+      "SCAD",
+      "ANOCA",
+      "NSTEMI"
+    ],
+    "answer": "NSTEMI",
+    "displayAnswer": "NSTEMI",
+    "set": "A"
+  },
+  {
+    "id": "q058",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 26,
+    "explanation": "Concetto chiave del materiale: Nei trial sulle lesioni non culprit ci sono sempre due classici criteri di esclusione su cui, di conseguenza, abbiamo pochi daA al riguardo: le CTO e lo shock cardiogeno.",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei trial sulle lesioni non culprit ci sono sempre due classici criteri di esclusione su cui, di conseguenza, abbiamo pochi daA al riguardo: le CTO e lo ________.",
+    "options": [
+      "shock cardiogeno",
+      "fibrillazione ventricolare",
+      "SCD",
+      "sincope",
+      "BAV"
+    ],
+    "answer": "shock cardiogeno",
+    "displayAnswer": "shock cardiogeno",
+    "set": "B"
+  },
+  {
+    "id": "q059",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 27,
+    "explanation": "Concetto chiave del materiale: Un limite è che venivano incluse tra le lesioni non culprit anche le CTO.",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn limite è che venivano incluse tra le lesioni non culprit anche le ________.",
+    "options": [
+      "PCI",
+      "ECMO",
+      "CABG",
+      "contropulsatore aortico",
+      "CTO"
+    ],
+    "answer": "CTO",
+    "displayAnswer": "CTO",
+    "set": "C"
+  },
+  {
+    "id": "q060",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: Per quanto riguarda la risposta alla prima domanda, vedete come c’è una riduzione del rischio relaAvo di morte a 5 anni del 20% facendo rou Ane PCI.",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPer quanto riguarda la risposta alla prima domanda, vedete come c’è una riduzione del rischio relaAvo di morte a 5 anni del 20% facendo rou Ane ________.",
+    "options": [
+      "contropulsatore aortico",
+      "IABP",
+      "DAPT",
+      "PCI",
+      "CABG"
+    ],
+    "answer": "PCI",
+    "displayAnswer": "PCI",
+    "set": "D"
+  },
+  {
+    "id": "q061",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Questo ha cambiato molto il paradigma, prima molAssime angioplasAche si facevano successivamente a fibrinolisi (rescue PCI) poiché non ci stava una rete IMA ben ramificata come oggi.",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesto ha cambiato molto il paradigma, prima molAssime angioplasAche si facevano successivamente a fibrinolisi (rescue ________) poiché non ci stava una rete IMA ben ramificata come oggi.",
+    "options": [
+      "IABP",
+      "PCI",
+      "Impella",
+      "CTO",
+      "contropulsatore aortico"
+    ],
+    "answer": "PCI",
+    "displayAnswer": "PCI",
+    "set": "A"
+  },
+  {
+    "id": "q062",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: Essendo la mortalità nel mulAvasale precoce, questo implica che anche la rivascolarizzazione deve essere eseguita in tempi brevi delle lesioni non culprit (e non come in passato che si faceva la scinAgrafia a tu] dopo una SCA con non-IRA).",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nEssendo la mortalità nel mulAvasale precoce, questo implica che anche la ________ deve essere eseguita in tempi brevi delle lesioni non culprit (e non come in passato che si faceva la scinAgrafia a tu] dopo una SCA con non-IRA).",
+    "options": [
+      "angioplastica",
+      "ablazione",
+      "terapia medica",
+      "fibrinolisi",
+      "rivascolarizzazione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "B"
+  },
+  {
+    "id": "q063",
+    "source": "18. Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute.pdf",
+    "page": 19,
+    "explanation": "Concetto chiave del materiale: La valutazione della placca non culprit è la stessa nello STEMI e nell’NSTEMI.",
+    "topic": "Piccolo Rivascolarizzazione miocardica nelle sindromi coronariche acute",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa valutazione della placca non culprit è la stessa nello STEMI e nell’________.",
+    "options": [
+      "INOCA",
+      "SCAD",
+      "MINOCA",
+      "NSTEMI",
+      "CAD"
+    ],
+    "answer": "NSTEMI",
+    "displayAnswer": "NSTEMI",
+    "set": "C"
+  },
+  {
+    "id": "q064",
+    "source": "19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf",
+    "page": 21,
+    "explanation": "Concetto chiave del materiale: Con questo approccio la sopravvivenza riportata è intorno al 70%, contro una mortalità abituale dello shock cardiogeno intorno al 50%.",
+    "topic": "Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo",
+    "image": "assets/figures/09-p001.jpg",
+    "imageAlt": "Figura tratta da 19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf, pagina 1",
+    "imagePage": 1,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCon questo approccio la sopravvivenza riportata è intorno al 70%, contro una mortalità abituale dello ________ intorno al 50%.",
+    "options": [
+      "shock cardiogeno",
+      "fibrillazione ventricolare",
+      "SCD",
+      "sincope",
+      "BAV"
+    ],
+    "answer": "shock cardiogeno",
+    "displayAnswer": "shock cardiogeno",
+    "set": "D"
+  },
+  {
+    "id": "q065",
+    "source": "19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Il contropulsatore aumenta la portata solo di circa 0,5-1 litro al minuto, quindi abbastanza bassa; all’estremo opposto, con l’ECMO veno-arterioso si possono raggiungere 5- 7 litri al minuto, nella fascia alta del supporto.",
+    "topic": "Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl contropulsatore aumenta la portata solo di circa 0,5-1 litro al minuto, quindi abbastanza bassa; all’estremo opposto, con l’________ veno-arterioso si possono raggiungere 5- 7 litri al minuto, nella fascia alta del supporto.",
+    "options": [
+      "PCI",
+      "Impella",
+      "ECMO",
+      "IABP",
+      "CTO"
+    ],
+    "answer": "ECMO",
+    "displayAnswer": "ECMO",
+    "set": "A"
+  },
+  {
+    "id": "q066",
+    "source": "19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: Nei pazien1 in ECMO il flusso è regolabile (per esempio 1,5 → 3 → 4,5 L/min): più aumenta il flusso, più la curva pressione-volume si sposta verso destra, con forte aumento del consumo miocardico di ossigeno e delle pressioni di riempimento.",
+    "topic": "Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazien1 in ________ il flusso è regolabile (per esempio 1,5 → 3 → 4,5 L/min): più aumenta il flusso, più la curva pressione-volume si sposta verso destra, con forte aumento del consumo miocardico di ossigeno e delle pressioni di riempimento.",
+    "options": [
+      "Impella",
+      "ECMO",
+      "IABP",
+      "CABG",
+      "CTO"
+    ],
+    "answer": "ECMO",
+    "displayAnswer": "ECMO",
+    "set": "B"
+  },
+  {
+    "id": "q067",
+    "source": "19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Escludendo i preceden1 pazien1, includendo i pazien1 con STEMI e impiantando il device nell’85% dei casi prima della PCI, si è o:enuta una riduzione del rischio assoluto di mortalità del 13%, una differenza, in termini assolu1, non paragonabile a quella di mol1 altri trial largamente sponsorizza1.",
+    "topic": "Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nEscludendo i preceden1 pazien1, includendo i pazien1 con ________ e impiantando il device nell’85% dei casi prima della PCI, si è o:enuta una riduzione del rischio assoluto di mortalità del 13%, una differenza, in termini assolu1, non paragonabile a quella di mol1 altri trial largamente sponsorizza1.",
+    "options": [
+      "MINOCA",
+      "STEMI",
+      "CAD",
+      "ANOCA",
+      "INOCA"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "C"
+  },
+  {
+    "id": "q068",
+    "source": "19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: Impella e altre forme di supporto) e quando le popolazioni di partenza sono così diverse, qualunque.",
+    "topic": "Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n________ e altre forme di supporto) e quando le popolazioni di partenza sono così diverse, qualunque.",
+    "options": [
+      "IABP",
+      "Impella",
+      "ECMO",
+      "CTO",
+      "PCI"
+    ],
+    "answer": "Impella",
+    "displayAnswer": "Impella",
+    "set": "D"
+  },
+  {
+    "id": "q069",
+    "source": "19. Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo.pdf",
+    "page": 14,
+    "explanation": "Concetto chiave del materiale: È questo il razionale dell’ECPELLA: all’a. vazione dell’ECMO la pressione atriale sinistra aumenta.",
+    "topic": "Piccolo Shock cardiogeno - rivascolarizzazione e supporto al circolo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nÈ questo il razionale dell’ECPELLA: all’a. vazione dell’________ la pressione atriale sinistra aumenta.",
+    "options": [
+      "CABG",
+      "DAPT",
+      "Impella",
+      "ECMO",
+      "CTO"
+    ],
+    "answer": "ECMO",
+    "displayAnswer": "ECMO",
+    "set": "A"
+  },
+  {
+    "id": "q070",
+    "source": "2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf",
+    "page": 25,
+    "explanation": "Concetto chiave del materiale: Un elemento cruciale è il contatto eBicace tra catetere e miocardio che andrà a trasferire eCicientemente il quantitativo di energia.",
+    "topic": "Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo",
+    "image": "assets/figures/10-p022.jpg",
+    "imageAlt": "Figura tratta da 2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf, pagina 22",
+    "imagePage": 22,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn elemento cruciale è il contatto eBicace tra catetere e ________ che andrà a trasferire eCicientemente il quantitativo di energia.",
+    "options": [
+      "atrio sinistro",
+      "epicardio",
+      "miocardio",
+      "microcircolo",
+      "ventricolo sinistro"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "B"
+  },
+  {
+    "id": "q071",
+    "source": "2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Al contrario, si parla di attivazione eccentrica quando: è presente una via accessoria oppure una tachicardia atriale.",
+    "topic": "Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAl contrario, si parla di attivazione eccentrica quando: è presente una ________ oppure una tachicardia atriale.",
+    "options": [
+      "sistema di Purkinje",
+      "via lenta",
+      "via accessoria",
+      "fascio di His",
+      "nodo AV"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "C"
+  },
+  {
+    "id": "q072",
+    "source": "2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf",
+    "page": 24,
+    "explanation": "Concetto chiave del materiale: Quando il catetere è a contatto diretto con il miocardio, il tessuto oppone una resistenza al passaggio di corrente.",
+    "topic": "Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuando il catetere è a contatto diretto con il ________, il tessuto oppone una resistenza al passaggio di corrente.",
+    "options": [
+      "epicardio",
+      "ventricolo sinistro",
+      "miocardio",
+      "microcircolo",
+      "atrio sinistro"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "D"
+  },
+  {
+    "id": "q073",
+    "source": "2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Al contrario, si parla di attivazione eccentrica quando: è presente una via accessoria oppure.",
+    "topic": "Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAl contrario, si parla di attivazione eccentrica quando: è presente una ________ oppure.",
+    "options": [
+      "via accessoria",
+      "via rapida",
+      "sistema di Purkinje",
+      "via lenta",
+      "fascio di His"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "A"
+  },
+  {
+    "id": "q074",
+    "source": "2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf",
+    "page": 25,
+    "explanation": "Concetto chiave del materiale: Un elemento cruciale è il contatto eBicace tra catetere e miocardio che andrà a trasferire.",
+    "topic": "Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn elemento cruciale è il contatto eBicace tra catetere e ________ che andrà a trasferire.",
+    "options": [
+      "ventricolo sinistro",
+      "atrio sinistro",
+      "miocardio",
+      "microcircolo",
+      "epicardio"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "B"
+  },
+  {
+    "id": "q075",
+    "source": "2. Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Questa sequenza di attivazione si chiama: conduzione concentrica Al contrario, si parla di attivazione eccentrica quando: è presente una via accessoria oppure una tachicardia atriale In questi casi, la depolarizzazione atriale segue un pattern diverso (non fisiologico).",
+    "topic": "Strisciuglio - Lo studio elettrofisiologico_ indicazioni, tecnica di esecuzione, parametri registrati - 5 marzo",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesta sequenza di attivazione si chiama: conduzione concentrica Al contrario, si parla di attivazione eccentrica quando: è presente una ________ oppure una tachicardia atriale In questi casi, la depolarizzazione atriale segue un pattern diverso (non fisiologico).",
+    "options": [
+      "fascio di His",
+      "via rapida",
+      "sistema di Purkinje",
+      "nodo AV",
+      "via accessoria"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "C"
+  },
+  {
+    "id": "q076",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: I pazienti che non hanno ischemia hanno un numero di eventi sovrapponibile a quelli che hanno ischemia (valore basso di FFR) e che vengono trattati con 4.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "image": "assets/figures/11-p012.jpg",
+    "imageAlt": "Figura tratta da 20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf, pagina 12",
+    "imagePage": 12,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nI pazienti che non hanno ischemia hanno un numero di eventi sovrapponibile a quelli che hanno ischemia (valore basso di ________) e che vengono trattati con 4.",
+    "options": [
+      "TIMI",
+      "CFR",
+      "GRACE",
+      "MACE",
+      "FFR"
+    ],
+    "answer": "FFR",
+    "displayAnswer": "FFR",
+    "set": "D"
+  },
+  {
+    "id": "q077",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: Il residual SYNTAX score non ha nessun ruolo prognostico rispetto all’FFR post-angioplastica (<0.86) hanno un maggior numero di eventi.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl residual ________ score non ha nessun ruolo prognostico rispetto all’FFR post-angioplastica (<0.86) hanno un maggior numero di eventi.",
+    "options": [
+      "TIMI",
+      "SYNTAX",
+      "CFR",
+      "GRACE",
+      "LVEF"
+    ],
+    "answer": "SYNTAX",
+    "displayAnswer": "SYNTAX",
+    "set": "A"
+  },
+  {
+    "id": "q078",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: INOCA: Ischemia with Non Obstructive Coronary Artery; sono gli ANOCA che hanno evidenza di ischemia inducibile a un test diagnostico non invasivo.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n________: Ischemia with Non Obstructive Coronary Artery; sono gli ANOCA che hanno evidenza di ischemia inducibile a un test diagnostico non invasivo.",
+    "options": [
+      "NSTEMI",
+      "CAD",
+      "SCAD",
+      "MINOCA",
+      "INOCA"
+    ],
+    "answer": "INOCA",
+    "displayAnswer": "INOCA",
+    "set": "B"
+  },
+  {
+    "id": "q079",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Non si implementa con il PPG index perché è fatto durante iperemia e non siamo in grado di predire i valori di FFR post-rivascolarizzazione.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNon si implementa con il PPG index perché è fatto durante iperemia e non siamo in grado di predire i valori di FFR post-________.",
+    "options": [
+      "terapia medica",
+      "ablazione",
+      "rivascolarizzazione",
+      "cardioversione",
+      "angioplastica"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "C"
+  },
+  {
+    "id": "q080",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: Il PPG index ci dice di quanto varia il valore di FFR nell’unità di spazio (durante il ritiro). Un valore più alto di PPG index identifica una malattia focale; un valore più basso è indice di malattia difusa.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl PPG index ci dice di quanto varia il valore di ________ nell’unità di spazio (durante il ritiro). Un valore più alto di PPG index identifica una malattia focale; un valore più basso è indice di malattia difusa.",
+    "options": [
+      "FFR",
+      "IMR",
+      "CFR",
+      "GRACE",
+      "iFR"
+    ],
+    "answer": "FFR",
+    "displayAnswer": "FFR",
+    "set": "D"
+  },
+  {
+    "id": "q081",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Lesione difusa: man mano che tiro la guida dalla distalità alla prossimalità del vaso, l’ FFR aumenta gradualmente. Assenza di un chiaro drop di FFR.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLesione difusa: man mano che tiro la guida dalla distalità alla prossimalità del vaso, l’ ________ aumenta gradualmente. Assenza di un chiaro drop di FFR.",
+    "options": [
+      "IMR",
+      "GRACE",
+      "FFR",
+      "iFR",
+      "SYNTAX"
+    ],
+    "answer": "FFR",
+    "displayAnswer": "FFR",
+    "set": "A"
+  },
+  {
+    "id": "q082",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 10,
+    "explanation": "Concetto chiave del materiale: Il fatto che l’IVA sia associata a un valore di FFR post-PCI più basso rispetto alle altre coronarie sottolinea l’importanza di interpretazione dell’FFR in funzione del tipo di vaso che stiamo valutando.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl fatto che l’IVA sia associata a un valore di ________ post-PCI più basso rispetto alle altre coronarie sottolinea l’importanza di interpretazione dell’FFR in funzione del tipo di vaso che stiamo valutando.",
+    "options": [
+      "IMR",
+      "TIMI",
+      "iFR",
+      "MACE",
+      "FFR"
+    ],
+    "answer": "FFR",
+    "displayAnswer": "FFR",
+    "set": "B"
+  },
+  {
+    "id": "q083",
+    "source": "20. Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA.pdf",
+    "page": 11,
+    "explanation": "Concetto chiave del materiale: Disfunzione microvascolare: rimodellamento del microcircolo coronarico che non permette una vasodilatazione, quando richiesto.",
+    "topic": "Di Serafino Fisiologia coronarica nel paziente candidato a rivascolarizzazione coronarica; ANOCA e INOCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n________: rimodellamento del microcircolo coronarico che non permette una vasodilatazione, quando richiesto.",
+    "options": [
+      "vasospasmo coronarico",
+      "malattia epicardica",
+      "ischemia inducibile",
+      "disfunzione microvascolare",
+      "aterosclerosi diffusa"
+    ],
+    "answer": "disfunzione microvascolare",
+    "displayAnswer": "disfunzione microvascolare",
+    "set": "C"
+  },
+  {
+    "id": "q084",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: La riserva di flusso coronarico (CFR) e l'indice di resistenza microcircolatoria (IMR) vengono determinati in condizioni di iperemia massimale (somministrazione endovenosa di adenosina a 140 μg/kg/min).",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "image": "assets/figures/12-p006.jpg",
+    "imageAlt": "Figura tratta da 23. Di Seraf.  MINOCA (by giovanni vitale.pdf, pagina 6",
+    "imagePage": 6,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa riserva di flusso coronarico (CFR) e l'indice di resistenza microcircolatoria (IMR) vengono determinati in condizioni di iperemia massimale (somministrazione endovenosa di ________ a 140 μg/kg/min).",
+    "options": [
+      "prasugrel",
+      "adenosina",
+      "ticagrelor",
+      "eparina",
+      "aspirina"
+    ],
+    "answer": "adenosina",
+    "displayAnswer": "adenosina",
+    "set": "D"
+  },
+  {
+    "id": "q085",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: Nel gruppo sottoposto a trattamento stratificato, la causa specifica del MINOCA è stata identificata nell'80% dei pazienti.",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNel gruppo sottoposto a trattamento stratificato, la causa specifica del ________ è stata identificata nell'80% dei pazienti.",
+    "options": [
+      "NSTEMI",
+      "MINOCA",
+      "SCAD",
+      "STEMI",
+      "CAD"
+    ],
+    "answer": "MINOCA",
+    "displayAnswer": "MINOCA",
+    "set": "A"
+  },
+  {
+    "id": "q086",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Un approccio diagnostico e terapeutico stratificato, basato sui fenotipi del MINOCA, è stato associato a un miglioramento significativo della sintomatologia anginosa a 12 mesi (valutata tramite il SAQ-SS) rispetto all'approccio basato sulla pratica clinica standard.",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn approccio diagnostico e terapeutico stratificato, basato sui fenotipi del ________, è stato associato a un miglioramento significativo della sintomatologia anginosa a 12 mesi (valutata tramite il SAQ-SS) rispetto all'approccio basato sulla pratica clinica standard.",
+    "options": [
+      "SCAD",
+      "STEMI",
+      "INOCA",
+      "NSTEMI",
+      "MINOCA"
+    ],
+    "answer": "MINOCA",
+    "displayAnswer": "MINOCA",
+    "set": "B"
+  },
+  {
+    "id": "q087",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: La RMC è in grado di identificare il meccanismo sottostante fino all'87% dei pazienti con possibile MINOCA e dovrebbe essere eseguita il prima possibile dopo la presentazione clinica, al fine di massimizzarne la resa diagnostica (va eseguita entro 7 giorni dall’evento acuto).",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa RMC è in grado di identificare il meccanismo sottostante fino all'87% dei pazienti con possibile ________ e dovrebbe essere eseguita il prima possibile dopo la presentazione clinica, al fine di massimizzarne la resa diagnostica (va eseguita entro 7 giorni dall’evento acuto).",
+    "options": [
+      "STEMI",
+      "SCAD",
+      "NSTEMI",
+      "CAD",
+      "MINOCA"
+    ],
+    "answer": "MINOCA",
+    "displayAnswer": "MINOCA",
+    "set": "C"
+  },
+  {
+    "id": "q088",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: NON-ATHEROSCLEROTIC MINOCA: FISIOPATOLOGIA Trombosi coronarica in situ o embolia coronarica La trombosi coronarica in situ può interessare sia il compartimento coronarico epicardico che quello microvascolare.",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNON-ATHEROSCLEROTIC ________: FISIOPATOLOGIA Trombosi coronarica in situ o embolia coronarica La trombosi coronarica in situ può interessare sia il compartimento coronarico epicardico che quello microvascolare.",
+    "options": [
+      "NSTEMI",
+      "MINOCA",
+      "STEMI",
+      "INOCA",
+      "CAD"
+    ],
+    "answer": "MINOCA",
+    "displayAnswer": "MINOCA",
+    "set": "D"
+  },
+  {
+    "id": "q089",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Il MINOCA, infatti, comprende pazienti con SCA e meccanismi patogenetici eterogenei, classificabili come segue.",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl ________, infatti, comprende pazienti con SCA e meccanismi patogenetici eterogenei, classificabili come segue.",
+    "options": [
+      "MINOCA",
+      "INOCA",
+      "STEMI",
+      "SCAD",
+      "ANOCA"
+    ],
+    "answer": "MINOCA",
+    "displayAnswer": "MINOCA",
+    "set": "A"
+  },
+  {
+    "id": "q090",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Sebbene limitate dalla natura osservazionale e retrospettiva degli studi, le evidenze hanno dimostrato l'importanza di un regime antiaggregante personalizzato nei pazienti con SCAD non sottoposti a intervento coronarico percutaneo (PCI).",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSebbene limitate dalla natura osservazionale e retrospettiva degli studi, le evidenze hanno dimostrato l'importanza di un regime antiaggregante personalizzato nei pazienti con ________ non sottoposti a intervento coronarico percutaneo (PCI).",
+    "options": [
+      "INOCA",
+      "CAD",
+      "SCAD",
+      "ANOCA",
+      "MINOCA"
+    ],
+    "answer": "SCAD",
+    "displayAnswer": "SCAD",
+    "set": "B"
+  },
+  {
+    "id": "q091",
+    "source": "23. Di Seraf.  MINOCA (by giovanni vitale.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Lo spasmo epicardico è risultato l'eziologia più comune, identificato in circa un terzo dei pazienti (35,6%), seguito dall'instabilità di placca (22,2%), dalla SCAD (13,3%) e, con minore frequenza, dall'embolia coronarica e dallo spasmo microvascolare (entrambi <5%).",
+    "topic": "Di Seraf.  MINOCA (by giovanni vitale",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLo spasmo epicardico è risultato l'eziologia più comune, identificato in circa un terzo dei pazienti (35,6%), seguito dall'instabilità di placca (22,2%), dalla ________ (13,3%) e, con minore frequenza, dall'embolia coronarica e dallo spasmo microvascolare (entrambi <5%).",
+    "options": [
+      "CAD",
+      "MINOCA",
+      "SCAD",
+      "INOCA",
+      "NSTEMI"
+    ],
+    "answer": "SCAD",
+    "displayAnswer": "SCAD",
+    "set": "C"
+  },
+  {
+    "id": "q092",
+    "source": "23. MINOCA, MANCA SIA LEZ CHE SBOB.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: È il caso dei vasi calcifici, dei vasi molto piccoli, CTO, angolazione del vaso, le grosse tortuosità o lesioni di tipo B2 o di tipo C, quindi quelle più gravi.",
+    "topic": "MINOCA, MANCA SIA LEZ CHE SBOB",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nÈ il caso dei vasi calcifici, dei vasi molto piccoli, ________, angolazione del vaso, le grosse tortuosità o lesioni di tipo B2 o di tipo C, quindi quelle più gravi.",
+    "options": [
+      "ECMO",
+      "IABP",
+      "CTO",
+      "PCI",
+      "contropulsatore aortico"
+    ],
+    "answer": "CTO",
+    "displayAnswer": "CTO",
+    "set": "D"
+  },
+  {
+    "id": "q093",
+    "source": "23. MINOCA, MANCA SIA LEZ CHE SBOB.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: Facciamo un po' di contrasto, non aspettiamo che la coronaria si svuoti (sbagliando) e subito facciamo una successiva iniezione, togliendo ossigeno a tutto il territorio di pertinenza della coronaria destra e inducendo una fibrillazione ventricolare in una coronaria che magari è anche sana.",
+    "topic": "MINOCA, MANCA SIA LEZ CHE SBOB",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nFacciamo un po' di contrasto, non aspettiamo che la coronaria si svuoti (sbagliando) e subito facciamo una successiva iniezione, togliendo ossigeno a tutto il territorio di pertinenza della coronaria destra e inducendo una ________ in una coronaria che magari è anche sana.",
+    "options": [
+      "shock cardiogeno",
+      "SCD",
+      "fibrillazione atriale",
+      "BAV",
+      "fibrillazione ventricolare"
+    ],
+    "answer": "fibrillazione ventricolare",
+    "displayAnswer": "fibrillazione ventricolare",
+    "set": "A"
+  },
+  {
+    "id": "q094",
+    "source": "23. MINOCA, MANCA SIA LEZ CHE SBOB.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: La distrazione, anche durante una semplice coronarografia, può portare a problemi particolarmente importanti.",
+    "topic": "MINOCA, MANCA SIA LEZ CHE SBOB",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa distrazione, anche durante una semplice ________, può portare a problemi particolarmente importanti.",
+    "options": [
+      "CCTA",
+      "SPECT",
+      "RMN",
+      "coronarografia",
+      "RMC"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "B"
+  },
+  {
+    "id": "q095",
+    "source": "23. MINOCA, MANCA SIA LEZ CHE SBOB.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Un'altra complicanza della semplice coronarografia può essere di tipo cerebrovascolare.",
+    "topic": "MINOCA, MANCA SIA LEZ CHE SBOB",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn'altra complicanza della semplice ________ può essere di tipo cerebrovascolare.",
+    "options": [
+      "RMC",
+      "CCTA",
+      "OCT",
+      "coronarografia",
+      "PET"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "C"
+  },
+  {
+    "id": "q096",
+    "source": "23. MINOCA, MANCA SIA LEZ CHE SBOB.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Un'altra complicanza della semplice coronarografia può essere di tipo.",
+    "topic": "MINOCA, MANCA SIA LEZ CHE SBOB",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn'altra complicanza della semplice ________ può essere di tipo.",
+    "options": [
+      "OCT",
+      "coronarografia",
+      "IVUS",
+      "RMC",
+      "CCTA"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "D"
+  },
+  {
+    "id": "q097",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 23,
+    "explanation": "Concetto chiave del materiale: Se prevale il rischio ischemico la duplice terapia antiaggregante può essere prevista anche con TICAGRELOR o PRASUGREL invece del CLOPIDOGREL e può essere prolungata fino a 6 mesi e si può anche estendere nel lungo termine.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "image": "assets/figures/14-p001.jpg",
+    "imageAlt": "Figura tratta da 25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf, pagina 1",
+    "imagePage": 1,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSe prevale il rischio ischemico la duplice terapia antiaggregante può essere prevista anche con TICAGRELOR o PRASUGREL invece del ________ e può essere prolungata fino a 6 mesi e si può anche estendere nel lungo termine.",
+    "options": [
+      "eparina",
+      "aspirina",
+      "adenosina",
+      "clopidogrel",
+      "colchicina"
+    ],
+    "answer": "clopidogrel",
+    "displayAnswer": "clopidogrel",
+    "set": "A"
+  },
+  {
+    "id": "q098",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 15,
+    "explanation": "Concetto chiave del materiale: DESCALATION : Quando descaliamo quindi dal Prasugrel o dal Ticagrelor, passiamo al clopidogrel è richiesta la dose di carico del clopidogrel, ma bisogna aspettare almeno 24 ore dall'ultima assunzione dell'antipiastrinico più potente.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDESCALATION : Quando descaliamo quindi dal Prasugrel o dal Ticagrelor, passiamo al ________ è richiesta la dose di carico del clopidogrel, ma bisogna aspettare almeno 24 ore dall'ultima assunzione dell'antipiastrinico più potente.",
+    "options": [
+      "clopidogrel",
+      "eparina",
+      "colchicina",
+      "aspirina",
+      "ticagrelor"
+    ],
+    "answer": "clopidogrel",
+    "displayAnswer": "clopidogrel",
+    "set": "B"
+  },
+  {
+    "id": "q099",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: PASSARE DA PRASUGREL AL TICAGRELOR O VICEVERSA RICHIEDE LA DOSE DI CARICO E RICHIEDE DI ASPETTARE ALMENO 24 ORE DALL'ULTIMA DOSE. Sono degli schemi predefiniti e studiati sulla base dell'emività dei farmaci, della loro funzionamento.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPASSARE DA PRASUGREL AL ________ O VICEVERSA RICHIEDE LA DOSE DI CARICO E RICHIEDE DI ASPETTARE ALMENO 24 ORE DALL'ULTIMA DOSE. Sono degli schemi predefiniti e studiati sulla base dell'emività dei farmaci, della loro funzionamento.",
+    "options": [
+      "clopidogrel",
+      "ticagrelor",
+      "eparina",
+      "prasugrel",
+      "adenosina"
+    ],
+    "answer": "ticagrelor",
+    "displayAnswer": "ticagrelor",
+    "set": "C"
+  },
+  {
+    "id": "q100",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: UTILIZZO nel setting ACUTO (DOPO SCA) La strategia di default è la DUPLICE TERAPIA ANTIAGGREGANTE con aspirina compresa tra 75 e 100 mg, perché non vi sono evidenze che un dosaggio maggiore di aspirina abbia un effetto maggiore sull'aggregazione piastrinica.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUTILIZZO nel setting ACUTO (DOPO SCA) La strategia di default è la DUPLICE TERAPIA ANTIAGGREGANTE con ________ compresa tra 75 e 100 mg, perché non vi sono evidenze che un dosaggio maggiore di aspirina abbia un effetto maggiore sull'aggregazione piastrinica.",
+    "options": [
+      "prasugrel",
+      "adenosina",
+      "colchicina",
+      "aspirina",
+      "eparina"
+    ],
+    "answer": "aspirina",
+    "displayAnswer": "aspirina",
+    "set": "D"
+  },
+  {
+    "id": "q101",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 10,
+    "explanation": "Concetto chiave del materiale: A, quindi si può pensare di ridurre la DAPT a 3-6 mesi. Queste sono le.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nA, quindi si può pensare di ridurre la ________ a 3-6 mesi. Queste sono le.",
+    "options": [
+      "CABG",
+      "CTO",
+      "ECMO",
+      "IABP",
+      "DAPT"
+    ],
+    "answer": "DAPT",
+    "displayAnswer": "DAPT",
+    "set": "A"
+  },
+  {
+    "id": "q102",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: L’aspirina è un inibitore dell'acido ossigenasi uno (COX1) questo enzima normalmente è responsabile della produzione del trombossano A2 (TXA2) a partire dall'acido arachidonico. Bloccando gli enzimi cicloossigenasi in modo irreversibile, riduce così la produzione di prostaglandine e trombossano A2.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nL’________ è un inibitore dell'acido ossigenasi uno (COX1) questo enzima normalmente è responsabile della produzione del trombossano A2 (TXA2) a partire dall'acido arachidonico. Bloccando gli enzimi cicloossigenasi in modo irreversibile, riduce così la produzione di prostaglandine e trombossano A2.",
+    "options": [
+      "adenosina",
+      "prasugrel",
+      "aspirina",
+      "ticagrelor",
+      "eparina"
+    ],
+    "answer": "aspirina",
+    "displayAnswer": "aspirina",
+    "set": "B"
+  },
+  {
+    "id": "q103",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: Questo ha randomizzato più di 3.000 pazienti alla sospensione dell'aspirina precoce, in media un giorno dopo la sindrome coronarica acuta e l’angioplastica, quindi un veramente very short DAPT, oppure a terapia standard.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesto ha randomizzato più di 3.000 pazienti alla sospensione dell'________ precoce, in media un giorno dopo la sindrome coronarica acuta e l’angioplastica, quindi un veramente very short DAPT, oppure a terapia standard.",
+    "options": [
+      "prasugrel",
+      "colchicina",
+      "adenosina",
+      "clopidogrel",
+      "aspirina"
+    ],
+    "answer": "aspirina",
+    "displayAnswer": "aspirina",
+    "set": "C"
+  },
+  {
+    "id": "q104",
+    "source": "25-26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: In realtà sono molto simili questi criteri a quelli utilizzati per definire l'HBR, quindi l'alto rischio di sanguinamento nel MASTER-DAPT trial sono molto sovrapponibili.",
+    "topic": "26 Franzone - Terapia medica ottimale nelle sindromi coronariche acute e croniche",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn realtà sono molto simili questi criteri a quelli utilizzati per definire l'HBR, quindi l'alto rischio di sanguinamento nel MASTER-________ trial sono molto sovrapponibili.",
+    "options": [
+      "DAPT",
+      "PCI",
+      "IABP",
+      "CTO",
+      "contropulsatore aortico"
+    ],
+    "answer": "DAPT",
+    "displayAnswer": "DAPT",
+    "set": "D"
+  },
+  {
+    "id": "q105",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Questo è uno studio che andava a valutare la probabilità di TIMI 3 nei pazienti che facevano l’angioplastica in rapporto al tempo di somministrazione di UFH.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "image": "assets/figures/15-p004.jpg",
+    "imageAlt": "Figura tratta da 28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf, pagina 4",
+    "imagePage": 4,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesto è uno studio che andava a valutare la probabilità di ________ 3 nei pazienti che facevano l’angioplastica in rapporto al tempo di somministrazione di UFH.",
+    "options": [
+      "iFR",
+      "SYNTAX",
+      "GRACE",
+      "TIMI",
+      "FFR"
+    ],
+    "answer": "TIMI",
+    "displayAnswer": "TIMI",
+    "set": "A"
+  },
+  {
+    "id": "q106",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: Questo è il risultato del POMPEI, in cui avevamo questi pazienti arrivati in sala di emodinamica dopo essere stati pretrattati con Ticagrelor entro 60 min dalla somministrazione a monte.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesto è il risultato del POMPEI, in cui avevamo questi pazienti arrivati in sala di emodinamica dopo essere stati pretrattati con ________ entro 60 min dalla somministrazione a monte.",
+    "options": [
+      "aspirina",
+      "colchicina",
+      "prasugrel",
+      "ticagrelor",
+      "clopidogrel"
+    ],
+    "answer": "ticagrelor",
+    "displayAnswer": "ticagrelor",
+    "set": "B"
+  },
+  {
+    "id": "q107",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: In questo studio si è visto che in 33435 pazienti che hanno fatto DAPT per oltre 12 mesi, tutti gli eventi.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn questo studio si è visto che in 33435 pazienti che hanno fatto ________ per oltre 12 mesi, tutti gli eventi.",
+    "options": [
+      "CTO",
+      "DAPT",
+      "Impella",
+      "contropulsatore aortico",
+      "IABP"
+    ],
+    "answer": "DAPT",
+    "displayAnswer": "DAPT",
+    "set": "C"
+  },
+  {
+    "id": "q108",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: Altro studio è il TWILIGHT-ACS. Anche in questo studio ai pazienti veniva somministrata DAPT (qui per 90.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAltro studio è il TWILIGHT-ACS. Anche in questo studio ai pazienti veniva somministrata ________ (qui per 90.",
+    "options": [
+      "ECMO",
+      "CTO",
+      "Impella",
+      "IABP",
+      "DAPT"
+    ],
+    "answer": "DAPT",
+    "displayAnswer": "DAPT",
+    "set": "D"
+  },
+  {
+    "id": "q109",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Il Clopidogrel ha un onset di azione di circa 2-8h, Prasugrel e Ticagrelor con media di circa 2h.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl ________ ha un onset di azione di circa 2-8h, Prasugrel e Ticagrelor con media di circa 2h.",
+    "options": [
+      "prasugrel",
+      "colchicina",
+      "clopidogrel",
+      "ticagrelor",
+      "aspirina"
+    ],
+    "answer": "clopidogrel",
+    "displayAnswer": "clopidogrel",
+    "set": "A"
+  },
+  {
+    "id": "q110",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Lo studio invece ATOLL è andato a vedere cosa accadeva nei pazienti con SCA-STEMI paragonando UFH e LMWH su una serie di endpoint di tipo ischemico.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLo studio invece ATOLL è andato a vedere cosa accadeva nei pazienti con SCA-________ paragonando UFH e LMWH su una serie di endpoint di tipo ischemico.",
+    "options": [
+      "CAD",
+      "MINOCA",
+      "SCAD",
+      "INOCA",
+      "STEMI"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "B"
+  },
+  {
+    "id": "q111",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Il problema è il sanguinamento gastrointestinale per l’azione gastrolesiva dell’Aspirina dipendente dall’inibizione della ciclossigenasi e quindi la produzione di prostaglandine, alterando la produzione di mucosa gastrica.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl problema è il sanguinamento gastrointestinale per l’azione gastrolesiva dell’________ dipendente dall’inibizione della ciclossigenasi e quindi la produzione di prostaglandine, alterando la produzione di mucosa gastrica.",
+    "options": [
+      "colchicina",
+      "eparina",
+      "aspirina",
+      "ticagrelor",
+      "adenosina"
+    ],
+    "answer": "aspirina",
+    "displayAnswer": "aspirina",
+    "set": "C"
+  },
+  {
+    "id": "q112",
+    "source": "28. Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione.pdf",
+    "page": 19,
+    "explanation": "Concetto chiave del materiale: In questo altro caso invece, “guided” si intendeva uno studio genetico sulla sensibilità al Clopidogrel a livello del citocromo. Erano pazienti inizialmente trattati con Ticagrelor o Prasugrel. Si è visto che, i pazienti avevano una riduzione dei sanguinamenti.",
+    "topic": "Cirillo Terapia antitrombotica nelle sindromi coronariche acute - dal pretrattamento alla dimissione",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn questo altro caso invece, “guided” si intendeva uno studio genetico sulla sensibilità al ________ a livello del citocromo. Erano pazienti inizialmente trattati con Ticagrelor o Prasugrel. Si è visto che, i pazienti avevano una riduzione dei sanguinamenti.",
+    "options": [
+      "adenosina",
+      "colchicina",
+      "eparina",
+      "aspirina",
+      "clopidogrel"
+    ],
+    "answer": "clopidogrel",
+    "displayAnswer": "clopidogrel",
+    "set": "D"
+  },
+  {
+    "id": "q113",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: 8. POLISONNOGRAFIA Lo screening per OSAS è raccomandato nei pazien1 con sintomi di OSAS e in presenza di bradicardia severa o BAV di grado avanzato durante il sonno.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "image": "assets/figures/16-p016.jpg",
+    "imageAlt": "Figura tratta da 3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf, pagina 16",
+    "imagePage": 16,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n8. POLISONNOGRAFIA Lo screening per OSAS è raccomandato nei pazien1 con sintomi di OSAS e in presenza di ________ severa o BAV di grado avanzato durante il sonno.",
+    "options": [
+      "bradicardia",
+      "attività triggerata",
+      "tachicardia ventricolare",
+      "preeccitazione",
+      "automatismo"
+    ],
+    "answer": "bradicardia",
+    "displayAnswer": "bradicardia",
+    "set": "A"
+  },
+  {
+    "id": "q114",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: STIMOLAZIONE PER SINCOPE RIFLESSA Alcuni pazien1 possono manifestare suscePbilità neuromediata all’ipotensione, che si manifesta con sincope e riposta ipotensiva (generalmente antecedente alla perdita di coscienza).",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSTIMOLAZIONE PER ________ RIFLESSA Alcuni pazien1 possono manifestare suscePbilità neuromediata all’ipotensione, che si manifesta con sincope e riposta ipotensiva (generalmente antecedente alla perdita di coscienza).",
+    "options": [
+      "shock cardiogeno",
+      "SCD",
+      "fibrillazione ventricolare",
+      "fibrillazione atriale",
+      "sincope"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "B"
+  },
+  {
+    "id": "q115",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 18,
+    "explanation": "Concetto chiave del materiale: Nei pazien1 con IMA e insorgenza di BAV è raccomandata la rivascolarizzazione, e in caso di compromissione.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazien1 con IMA e insorgenza di BAV è raccomandata la ________, e in caso di compromissione.",
+    "options": [
+      "angioplastica",
+      "cardioversione",
+      "rivascolarizzazione",
+      "fibrinolisi",
+      "ablazione"
+    ],
+    "answer": "rivascolarizzazione",
+    "displayAnswer": "rivascolarizzazione",
+    "set": "C"
+  },
+  {
+    "id": "q116",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Possono manifestarsi con stanchezza, lipo1- mia o sincope.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPossono manifestarsi con stanchezza, lipo1- mia o ________.",
+    "options": [
+      "sincope",
+      "shock cardiogeno",
+      "fibrillazione ventricolare",
+      "BAV",
+      "fibrillazione atriale"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "D"
+  },
+  {
+    "id": "q117",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: In linea generale, il SEF è da prediligere nei pazien1 con elevata probabilità pre-test di malaPa del sistema di conduzione e in coloro che possano andare incontro a un episodio sincopale potenzialmente fatale, mentre nei pazien1 con probabilità medio-bassa è invece da preferire l’impianto di ILR.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn linea generale, il SEF è da prediligere nei pazien1 con elevata probabilità pre-test di malaPa del sistema di conduzione e in coloro che possano andare incontro a un episodio sincopale potenzialmente fatale, mentre nei pazien1 con probabilità medio-bassa è invece da preferire l’impianto di ________.",
+    "options": [
+      "ILR",
+      "MACE",
+      "GRACE",
+      "CCTA",
+      "CMR"
+    ],
+    "answer": "ILR",
+    "displayAnswer": "ILR",
+    "set": "A"
+  },
+  {
+    "id": "q118",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Nei pazien1 che presentano bradicardia sinusale durante il sonno devono essere prese in considerazione le OSAS e la bra- dicardia nel sonno associata a movimen1 oculari rapidi; b.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazien1 che presentano ________ sinusale durante il sonno devono essere prese in considerazione le OSAS e la bra- dicardia nel sonno associata a movimen1 oculari rapidi; b.",
+    "options": [
+      "automatismo",
+      "rientro",
+      "attività triggerata",
+      "bradicardia",
+      "tachicardia ventricolare"
+    ],
+    "answer": "bradicardia",
+    "displayAnswer": "bradicardia",
+    "set": "B"
+  },
+  {
+    "id": "q119",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: STIMOLAZIONE PER BRADICARDIA SOSPET TA (NON DOCUMENTATA) Nei pazien1 con cadute inspiegate ricorren1 deve essere presa in considerazione la stessa valutazione prevista per la sincope inspiegata.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSTIMOLAZIONE PER ________ SOSPET TA (NON DOCUMENTATA) Nei pazien1 con cadute inspiegate ricorren1 deve essere presa in considerazione la stessa valutazione prevista per la sincope inspiegata.",
+    "options": [
+      "preeccitazione",
+      "attività triggerata",
+      "bradicardia",
+      "rientro",
+      "tachicardia ventricolare"
+    ],
+    "answer": "bradicardia",
+    "displayAnswer": "bradicardia",
+    "set": "C"
+  },
+  {
+    "id": "q120",
+    "source": "3. Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Nei pazien1 con sintomi indoP dallo sforzo, lo sviluppo o la progressione del BAV può occasionalmente rappresentare la causa soCostante.",
+    "topic": "Rapacciuolo - Disfunzione del nodo del seno e del nodo AV- fisiopatologia, test diagnostici, trattamento",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazien1 con sintomi indoP dallo sforzo, lo sviluppo o la progressione del ________ può occasionalmente rappresentare la causa soCostante.",
+    "options": [
+      "BAV",
+      "shock cardiogeno",
+      "sincope",
+      "fibrillazione ventricolare",
+      "SCD"
+    ],
+    "answer": "BAV",
+    "displayAnswer": "BAV",
+    "set": "D"
+  },
+  {
+    "id": "q121",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: In 12esima giornata dopo terapia medica, viene ripetuta la coronarografia che confermava la persistenza della dissezione del tronco comune in assenza di sintomatologia clinica.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "image": "assets/figures/17-p013.jpg",
+    "imageAlt": "Figura tratta da 31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf, pagina 13",
+    "imagePage": 13,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn 12esima giornata dopo terapia medica, viene ripetuta la ________ che confermava la persistenza della dissezione del tronco comune in assenza di sintomatologia clinica.",
+    "options": [
+      "OCT",
+      "PET",
+      "coronarografia",
+      "CCTA",
+      "RMC"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "A"
+  },
+  {
+    "id": "q122",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Dissezioni Coronariche Spontanee (SCAD): Diagnosi e Trattamento attraverso cinque miti da sfatare Le dissezioni coronariche spontanee sono eventi rari, ma possono essere fatali, pertanto è importante saperle riconoscere e gestire.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDissezioni Coronariche Spontanee (________): Diagnosi e Trattamento attraverso cinque miti da sfatare Le dissezioni coronariche spontanee sono eventi rari, ma possono essere fatali, pertanto è importante saperle riconoscere e gestire.",
+    "options": [
+      "ANOCA",
+      "SCAD",
+      "CAD",
+      "MINOCA",
+      "STEMI"
+    ],
+    "answer": "SCAD",
+    "displayAnswer": "SCAD",
+    "set": "B"
+  },
+  {
+    "id": "q123",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Il CABG indicato in acuto qui non si può fare perché la paziente in questo caso si è stabilizzata.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl ________ indicato in acuto qui non si può fare perché la paziente in questo caso si è stabilizzata.",
+    "options": [
+      "PCI",
+      "DAPT",
+      "CTO",
+      "CABG",
+      "IABP"
+    ],
+    "answer": "CABG",
+    "displayAnswer": "CABG",
+    "set": "C"
+  },
+  {
+    "id": "q124",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Inoltre, era una situazione più “semplice” rispetto all’interessamento del tronco comune, perché mettendo una guida eravamo quasi certi di essere nel vero lume (anche per questo è stata effettuata l’IVUS, per comprovare che eravamo nel vero lume).",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nInoltre, era una situazione più “semplice” rispetto all’interessamento del tronco comune, perché mettendo una guida eravamo quasi certi di essere nel vero lume (anche per questo è stata effettuata l’________, per comprovare che eravamo nel vero lume).",
+    "options": [
+      "OCT",
+      "IVUS",
+      "PET",
+      "CCTA",
+      "CMR"
+    ],
+    "answer": "IVUS",
+    "displayAnswer": "IVUS",
+    "set": "D"
+  },
+  {
+    "id": "q125",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 17,
+    "explanation": "Concetto chiave del materiale: In maniera del tutto empirica, la terapia della SCAD è simile a quella delle SCA perché non.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn maniera del tutto empirica, la terapia della ________ è simile a quella delle SCA perché non.",
+    "options": [
+      "NSTEMI",
+      "INOCA",
+      "MINOCA",
+      "CAD",
+      "SCAD"
+    ],
+    "answer": "SCAD",
+    "displayAnswer": "SCAD",
+    "set": "A"
+  },
+  {
+    "id": "q126",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 14,
+    "explanation": "Concetto chiave del materiale: Viene effettuata angiografia per la persistenza del dolore toracico e dell’aumento della troponina (NSTEMI): la coronaria destra non presenta alterazioni; la coronaria sinistra presenta lunga riduzione di calibro che sembra una stenosi, ma valutata l’imaging è una dissezione coronarica.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nViene effettuata angiografia per la persistenza del dolore toracico e dell’aumento della ________ (NSTEMI): la coronaria destra non presenta alterazioni; la coronaria sinistra presenta lunga riduzione di calibro che sembra una stenosi, ma valutata l’imaging è una dissezione coronarica.",
+    "options": [
+      "troponina",
+      "Duke",
+      "automatismo",
+      "PAPi",
+      "miocardio"
+    ],
+    "answer": "troponina",
+    "displayAnswer": "troponina",
+    "set": "B"
+  },
+  {
+    "id": "q127",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: A seguito della coronarografia il dolore toracico si attenua e viene ripetuto l’ECG, che risulta in miglioramento.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nA seguito della ________ il dolore toracico si attenua e viene ripetuto l’ECG, che risulta in miglioramento.",
+    "options": [
+      "CMR",
+      "RMN",
+      "coronarografia",
+      "OCT",
+      "IVUS"
+    ],
+    "answer": "coronarografia",
+    "displayAnswer": "coronarografia",
+    "set": "C"
+  },
+  {
+    "id": "q128",
+    "source": "31. Spaccarotella Dissezioni Coronariche Spontanee (1).pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: CABG indicato in acuto qui non si può fare perché la paziente in questo caso si è stabilizzata.",
+    "topic": "Spaccarotella Dissezioni Coronariche Spontanee (1)",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n________ indicato in acuto qui non si può fare perché la paziente in questo caso si è stabilizzata.",
+    "options": [
+      "CABG",
+      "PCI",
+      "CTO",
+      "ECMO",
+      "DAPT"
+    ],
+    "answer": "CABG",
+    "displayAnswer": "CABG",
+    "set": "D"
+  },
+  {
+    "id": "q129",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Infarto del ventricolo destro Rappresenta il 10% degli IMA e interessa in particolare il 33% degli STEMI inferiori.",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "image": "assets/figures/18-p002.jpg",
+    "imageAlt": "Figura tratta da 32. Losi - complicanze meccaniche dell' infarto.pdf, pagina 2",
+    "imagePage": 2,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nInfarto del ventricolo destro Rappresenta il 10% degli IMA e interessa in particolare il 33% degli ________ inferiori.",
+    "options": [
+      "NSTEMI",
+      "SCAD",
+      "MINOCA",
+      "INOCA",
+      "STEMI"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "A"
+  },
+  {
+    "id": "q130",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Un recente studio epidemiologico condotto su 9 milioni di pazienti ha evidenziato una prevalenza di complicanze meccaniche dell’infarto dello 0,27 % in caso di STEMI e dello 0,06% in caso di NSTEMI con una mortalità ospedaliera rispettivamente del 42% e del 18%.",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn recente studio epidemiologico condotto su 9 milioni di pazienti ha evidenziato una prevalenza di complicanze meccaniche dell’infarto dello 0,27 % in caso di STEMI e dello 0,06% in caso di ________ con una mortalità ospedaliera rispettivamente del 42% e del 18%.",
+    "options": [
+      "ANOCA",
+      "NSTEMI",
+      "CAD",
+      "MINOCA",
+      "STEMI"
+    ],
+    "answer": "NSTEMI",
+    "displayAnswer": "NSTEMI",
+    "set": "B"
+  },
+  {
+    "id": "q131",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Rappresenta il 10% degli IMA e interessa in particolare il 33% degli STEMI inferiori.",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nRappresenta il 10% degli IMA e interessa in particolare il 33% degli ________ inferiori.",
+    "options": [
+      "CAD",
+      "NSTEMI",
+      "SCAD",
+      "STEMI",
+      "ANOCA"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "C"
+  },
+  {
+    "id": "q132",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Complicanze meccaniche dell’infarto Si possono verificare nei primi giorni a seguito di un infarto acuto del miocardio e sono più comuni nello STEMI.",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nComplicanze meccaniche dell’infarto Si possono verificare nei primi giorni a seguito di un infarto acuto del ________ e sono più comuni nello STEMI.",
+    "options": [
+      "endocardio",
+      "epicardio",
+      "ventricolo sinistro",
+      "atrio sinistro",
+      "miocardio"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "D"
+  },
+  {
+    "id": "q133",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Una delle principali conseguenze delle complicanze meccaniche dell’infarto è lo sviluppo di shock cardiogeno caratterizzato da.",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUna delle principali conseguenze delle complicanze meccaniche dell’infarto è lo sviluppo di ________ caratterizzato da.",
+    "options": [
+      "fibrillazione atriale",
+      "BAV",
+      "SCD",
+      "fibrillazione ventricolare",
+      "shock cardiogeno"
+    ],
+    "answer": "shock cardiogeno",
+    "displayAnswer": "shock cardiogeno",
+    "set": "A"
+  },
+  {
+    "id": "q134",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Si possono verificare nei primi giorni a seguito di un infarto acuto del miocardio e sono più comuni.",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSi possono verificare nei primi giorni a seguito di un infarto acuto del ________ e sono più comuni.",
+    "options": [
+      "ventricolo sinistro",
+      "miocardio",
+      "epicardio",
+      "atrio sinistro",
+      "microcircolo"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "B"
+  },
+  {
+    "id": "q135",
+    "source": "32. Losi - complicanze meccaniche dell' infarto.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Trattamento precoce con beta bloccanti negli infarti miocardici estesi (in un vecchio trial di pazienti trattati con alte dosi di beta bloccanti si è evidenziata una riduzione delle morti per fibrillazione ventricolare ma un aumento dei casi di shock cardiogeno ).",
+    "topic": "Losi - complicanze meccaniche dell' infarto",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTrattamento precoce con beta bloccanti negli infarti miocardici estesi (in un vecchio trial di pazienti trattati con alte dosi di beta bloccanti si è evidenziata una riduzione delle morti per ________ ma un aumento dei casi di shock cardiogeno ).",
+    "options": [
+      "BAV",
+      "shock cardiogeno",
+      "sincope",
+      "SCD",
+      "fibrillazione ventricolare"
+    ],
+    "answer": "fibrillazione ventricolare",
+    "displayAnswer": "fibrillazione ventricolare",
+    "set": "C"
+  },
+  {
+    "id": "q136",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 27,
+    "explanation": "Concetto chiave del materiale: Quindi il conce=o importante è che, nella sindrome del QT lungo, la stra3^cazione del rischio non necessariamente ^nisce con la prima valutazione, ma può essere ripetuta nel tempo sulla base dell'andamento clinico e della risposta alla terapia.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "image": "assets/figures/19-p022.jpg",
+    "imageAlt": "Figura tratta da 4. Pergola - Short QT, Long QT, TV idiopatica.pdf, pagina 22",
+    "imagePage": 22,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuindi il conce=o importante è che, nella sindrome del ________, la stra3^cazione del rischio non necessariamente ^nisce con la prima valutazione, ma può essere ripetuta nel tempo sulla base dell'andamento clinico e della risposta alla terapia.",
+    "options": [
+      "Brugada",
+      "WPW",
+      "AVNRT",
+      "AVRT",
+      "QT lungo"
+    ],
+    "answer": "QT lungo",
+    "displayAnswer": "QT lungo",
+    "set": "D"
+  },
+  {
+    "id": "q137",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 22,
+    "explanation": "Concetto chiave del materiale: Inoltre, a frequenze cardiache già molto basse, l'eOe=o di ulteriore riduzione della frequenza da parte del beta-blocco tende 9siologicamente a essere meno marcato, per cui una bradicardia no=urna, anche importante, non implica necessariamente un rischio elevato di ulteriore rallentamento.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nInoltre, a frequenze cardiache già molto basse, l'eOe=o di ulteriore riduzione della frequenza da parte del beta-blocco tende 9siologicamente a essere meno marcato, per cui una ________ no=urna, anche importante, non implica necessariamente un rischio elevato di ulteriore rallentamento.",
+    "options": [
+      "automatismo",
+      "bradicardia",
+      "attività triggerata",
+      "preeccitazione",
+      "rientro"
+    ],
+    "answer": "bradicardia",
+    "displayAnswer": "bradicardia",
+    "set": "A"
+  },
+  {
+    "id": "q138",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 41,
+    "explanation": "Concetto chiave del materiale: Le TV monomorfe, infaI, sono ;picamente quelle che vediamo, per esempio, nella cardiomiopa;a aritmogena, dove il paziente può anche presentare una tachicardia ventricolare monomorfa sostenuta, con frequenze intorno ai 150-180 bpm, che può essere rela;vamente ben tollerata anche per molte ore.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLe TV monomorfe, infaI, sono ;picamente quelle che vediamo, per esempio, nella cardiomiopa;a aritmogena, dove il paziente può anche presentare una ________ monomorfa sostenuta, con frequenze intorno ai 150-180 bpm, che può essere rela;vamente ben tollerata anche per molte ore.",
+    "options": [
+      "rientro",
+      "preeccitazione",
+      "automatismo",
+      "bradicardia",
+      "tachicardia ventricolare"
+    ],
+    "answer": "tachicardia ventricolare",
+    "displayAnswer": "tachicardia ventricolare",
+    "set": "B"
+  },
+  {
+    "id": "q139",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 36,
+    "explanation": "Concetto chiave del materiale: Nell’ul;ma immagine vediamo infaI un caso di 9brillazione ventricolare indo=a e da un meccanismo di rientro funzionale manifestatasi proprio in corso di ranolazina.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNell’ul;ma immagine vediamo infaI un caso di 9brillazione ventricolare indo=a e da un meccanismo di ________ funzionale manifestatasi proprio in corso di ranolazina.",
+    "options": [
+      "tachicardia ventricolare",
+      "preeccitazione",
+      "attività triggerata",
+      "bradicardia",
+      "rientro"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "C"
+  },
+  {
+    "id": "q140",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: Abbiamo de=o che, anche in un paziente con sindrome del QT lungo, il QTc a riposo può essere normale o solo borderline, per esempio nell’ordine di 440-450 msec.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nAbbiamo de=o che, anche in un paziente con sindrome del ________, il QTc a riposo può essere normale o solo borderline, per esempio nell’ordine di 440-450 msec.",
+    "options": [
+      "QT lungo",
+      "CPVT",
+      "AVNRT",
+      "WPW",
+      "Brugada"
+    ],
+    "answer": "QT lungo",
+    "displayAnswer": "QT lungo",
+    "set": "D"
+  },
+  {
+    "id": "q141",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Per capire quello che succede, dobbiamo ricordare che le cellule mesocardiche presentano 9siologicamente una minore espressione di IKs e, di conseguenza, hanno un potenziale d’azione rela;vamente più lungo.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPer capire quello che succede, dobbiamo ricordare che le cellule mesocardiche presentano 9siologicamente una minore espressione di IKs e, di conseguenza, hanno un ________ rela;vamente più lungo.",
+    "options": [
+      "potenziale d'azione",
+      "instantaneous wave-free ratio",
+      "potenziale d’azione",
+      "beta-bloccanti",
+      "prasugrel"
+    ],
+    "answer": "potenziale d’azione",
+    "displayAnswer": "potenziale d’azione",
+    "set": "A"
+  },
+  {
+    "id": "q142",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 18,
+    "explanation": "Concetto chiave del materiale: Nei pazien; con sospe=o di sindrome del QT lungo, quindi, si può richiedere un Holter a 12 derivazioni per due.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazien; con sospe=o di sindrome del ________, quindi, si può richiedere un Holter a 12 derivazioni per due.",
+    "options": [
+      "AVRT",
+      "AVNRT",
+      "CPVT",
+      "QT lungo",
+      "WPW"
+    ],
+    "answer": "QT lungo",
+    "displayAnswer": "QT lungo",
+    "set": "B"
+  },
+  {
+    "id": "q143",
+    "source": "4. Pergola - Short QT, Long QT, TV idiopatica.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Un elemento fondamentale è infaI la dispersione della ripolarizzazione all’interno del miocardio, cioè il fa=o che regioni diverse del ventricolo non si ripolarizzino contemporaneamente.",
+    "topic": "Pergola - Short QT, Long QT, TV idiopatica",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn elemento fondamentale è infaI la dispersione della ripolarizzazione all’interno del ________, cioè il fa=o che regioni diverse del ventricolo non si ripolarizzino contemporaneamente.",
+    "options": [
+      "microcircolo",
+      "epicardio",
+      "atrio sinistro",
+      "endocardio",
+      "miocardio"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "C"
+  },
+  {
+    "id": "q144",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: Ma sono studi vecchi, ormai il paziente che ha la tachicardia ventricolare monomorfa, sempre dello stesso tipo, che risponde anche all’ATP, viene portato all’ablazione transcatetere.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "image": "assets/figures/20-p024.jpg",
+    "imageAlt": "Figura tratta da 5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf, pagina 24",
+    "imagePage": 24,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nMa sono studi vecchi, ormai il paziente che ha la ________ monomorfa, sempre dello stesso tipo, che risponde anche all’ATP, viene portato all’ablazione transcatetere.",
+    "options": [
+      "preeccitazione",
+      "tachicardia ventricolare",
+      "bradicardia",
+      "automatismo",
+      "attività triggerata"
+    ],
+    "answer": "tachicardia ventricolare",
+    "displayAnswer": "tachicardia ventricolare",
+    "set": "D"
+  },
+  {
+    "id": "q145",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Un’altra patologia è la displasia aritmogena del ventricolo destro, caratterizzata da sostituzione fibro-adiposa del miocardio, con possibile coinvolgimento anche del ventricolo sinistro.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn’altra patologia è la displasia aritmogena del ventricolo destro, caratterizzata da sostituzione fibro-adiposa del ________, con possibile coinvolgimento anche del ventricolo sinistro.",
+    "options": [
+      "miocardio",
+      "epicardio",
+      "microcircolo",
+      "atrio sinistro",
+      "ventricolo sinistro"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "A"
+  },
+  {
+    "id": "q146",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 11,
+    "explanation": "Concetto chiave del materiale: Questi sono tutti pazienti impiantati: gli episodi di fibrillazione ventricolare sono in gran parte asintomatici nelle ore notturne.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuesti sono tutti pazienti impiantati: gli episodi di ________ sono in gran parte asintomatici nelle ore notturne.",
+    "options": [
+      "sincope",
+      "fibrillazione ventricolare",
+      "BAV",
+      "fibrillazione atriale",
+      "SCD"
+    ],
+    "answer": "fibrillazione ventricolare",
+    "displayAnswer": "fibrillazione ventricolare",
+    "set": "B"
+  },
+  {
+    "id": "q147",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Molti di questi muoiono prima di essere dimessi, una volta arrivati in ospedale, perché purtroppo arrivano già con un danno cerebrale: c’è un problema di tempo enorme, che è il motivo per cui poi in alcune categorie di pazienti si impianta il defibrillatore.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nMolti di questi muoiono prima di essere dimessi, una volta arrivati in ospedale, perché purtroppo arrivano già con un danno cerebrale: c’è un problema di tempo enorme, che è il motivo per cui poi in alcune categorie di pazienti si impianta il ________.",
+    "options": [
+      "fibrillazione ventricolare",
+      "colchicina",
+      "shock cardiogeno",
+      "defibrillatore",
+      "Brugada"
+    ],
+    "answer": "defibrillatore",
+    "displayAnswer": "defibrillatore",
+    "set": "C"
+  },
+  {
+    "id": "q148",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 10,
+    "explanation": "Concetto chiave del materiale: Possono avere la fibrillazione atriale, possono avere la sincope neuromediata.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nPossono avere la ________, possono avere la sincope neuromediata.",
+    "options": [
+      "fibrillazione ventricolare",
+      "BAV",
+      "sincope",
+      "shock cardiogeno",
+      "fibrillazione atriale"
+    ],
+    "answer": "fibrillazione atriale",
+    "displayAnswer": "fibrillazione atriale",
+    "set": "D"
+  },
+  {
+    "id": "q149",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 29,
+    "explanation": "Concetto chiave del materiale: Uno dei problemi però è che spesso questi pazienti hanno necessità di impiantare anche qualcosa per la prevenzione della SCD, il dispositivo per la CCM-D non è in grado di erogare una terapia del genere. Dovrebbero uscire a breve con un dispositivo che permetta di avere questa duplice funzione.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUno dei problemi però è che spesso questi pazienti hanno necessità di impiantare anche qualcosa per la prevenzione della ________, il dispositivo per la CCM-D non è in grado di erogare una terapia del genere. Dovrebbero uscire a breve con un dispositivo che permetta di avere questa duplice funzione.",
+    "options": [
+      "sincope",
+      "SCD",
+      "shock cardiogeno",
+      "fibrillazione ventricolare",
+      "BAV"
+    ],
+    "answer": "SCD",
+    "displayAnswer": "SCD",
+    "set": "A"
+  },
+  {
+    "id": "q150",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Nei pazienti che hanno il defibrillatore impiantato, ovviamente, il defibrillatore farà il suo lavoro direttamente e, come abbiamo già detto, più presto interveniamo meglio è.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazienti che hanno il ________ impiantato, ovviamente, il defibrillatore farà il suo lavoro direttamente e, come abbiamo già detto, più presto interveniamo meglio è.",
+    "options": [
+      "bradicardia",
+      "accesso femorale",
+      "defibrillatore",
+      "riserva coronarica",
+      "vasospasmo"
+    ],
+    "answer": "defibrillatore",
+    "displayAnswer": "defibrillatore",
+    "set": "B"
+  },
+  {
+    "id": "q151",
+    "source": "5. Rapacciuolo prevenzione SCD + dispositivi per HF 2.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Un paziente giovane con fibrillazione atriale trattato con flecainide potrebbe avere una sindrome di Brugada non diagnosticata: la flecainide può slatentizzare il pattern e indurre un’aritmia ventricolare.",
+    "topic": "Rapacciuolo prevenzione SCD + dispositivi per HF 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nUn paziente giovane con ________ trattato con flecainide potrebbe avere una sindrome di Brugada non diagnosticata: la flecainide può slatentizzare il pattern e indurre un’aritmia ventricolare.",
+    "options": [
+      "fibrillazione ventricolare",
+      "shock cardiogeno",
+      "sincope",
+      "SCD",
+      "fibrillazione atriale"
+    ],
+    "answer": "fibrillazione atriale",
+    "displayAnswer": "fibrillazione atriale",
+    "set": "C"
+  },
+  {
+    "id": "q152",
+    "source": "5. Vergara -CRT e ICD Trial Clinici-.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Parallelament e, si sono sviluppat e anche le conoscenze sulla t erapia di resincronizzazione cardiaca.",
+    "topic": "Vergara -CRT e ICD Trial Clinici-",
+    "image": "assets/figures/21-p010.jpg",
+    "imageAlt": "Figura tratta da 5. Vergara -CRT e ICD Trial Clinici-.pdf, pagina 10",
+    "imagePage": 10,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nParallelament e, si sono sviluppat e anche le conoscenze sulla t erapia di ________.",
+    "options": [
+      "pacemaker",
+      "CRT",
+      "CCM",
+      "resincronizzazione cardiaca",
+      "ablazione transcatetere"
+    ],
+    "answer": "resincronizzazione cardiaca",
+    "displayAnswer": "resincronizzazione cardiaca",
+    "set": "D"
+  },
+  {
+    "id": "q153",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Ci sono casi in cui dopo 4 anni vale la pena rimettere il loop recorder, come ad esempio nel caso di pazienti con Brugada che hanno presentato sincope.",
+    "topic": "Strisciugno Sincope",
+    "image": "assets/figures/22-p007.jpg",
+    "imageAlt": "Figura tratta da 6 Strisciugno Sincope.pdf, pagina 7",
+    "imagePage": 7,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCi sono casi in cui dopo 4 anni vale la pena rimettere il loop recorder, come ad esempio nel caso di pazienti con Brugada che hanno presentato ________.",
+    "options": [
+      "fibrillazione ventricolare",
+      "BAV",
+      "sincope",
+      "fibrillazione atriale",
+      "SCD"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "A"
+  },
+  {
+    "id": "q154",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 10,
+    "explanation": "Concetto chiave del materiale: L’attivazione dell’algoritmo CLS era associata a una riduzione relativa del 66% e assoluta del 24% del rischio di ricorrenza di sincope a 5 anni.",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nL’attivazione dell’algoritmo CLS era associata a una riduzione relativa del 66% e assoluta del 24% del rischio di ricorrenza di ________ a 5 anni.",
+    "options": [
+      "shock cardiogeno",
+      "sincope",
+      "fibrillazione atriale",
+      "SCD",
+      "BAV"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "B"
+  },
+  {
+    "id": "q155",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Epidemiologia: La forma più frequente è quella riflessa (21%); in una grande percentuale di casi non si riesce a trovare la causa (37%); infine la sincope cardiaca e quella da ipotensione ortostatica presentano una prevalenza simile (9%).",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nEpidemiologia: La forma più frequente è quella riflessa (21%); in una grande percentuale di casi non si riesce a trovare la causa (37%); infine la ________ cardiaca e quella da ipotensione ortostatica presentano una prevalenza simile (9%).",
+    "options": [
+      "fibrillazione ventricolare",
+      "shock cardiogeno",
+      "fibrillazione atriale",
+      "BAV",
+      "sincope"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "C"
+  },
+  {
+    "id": "q156",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Inoltre, la sincope entra in diagnosi differenziale con diverse condizioni: Alcune caratteristiche delle crisi epilettiche possono essere in comune anche con la sincope.",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nInoltre, la ________ entra in diagnosi differenziale con diverse condizioni: Alcune caratteristiche delle crisi epilettiche possono essere in comune anche con la sincope.",
+    "options": [
+      "BAV",
+      "shock cardiogeno",
+      "fibrillazione atriale",
+      "sincope",
+      "SCD"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "D"
+  },
+  {
+    "id": "q157",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: Il meccanismo fisiopatologico alla basa della sincope riflessa è la riduzione del ritorno venoso; di conseguenza i barocettori attivano il simpatico che agisce aumentando cronotropismo e inotropismo.",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl meccanismo fisiopatologico alla basa della ________ riflessa è la riduzione del ritorno venoso; di conseguenza i barocettori attivano il simpatico che agisce aumentando cronotropismo e inotropismo.",
+    "options": [
+      "SCD",
+      "shock cardiogeno",
+      "sincope",
+      "BAV",
+      "fibrillazione atriale"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "A"
+  },
+  {
+    "id": "q158",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Trattamento sincope cardiogena: Il pacing è indicato nelle condizioni bradiaritmiche associate a sincope.",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTrattamento ________ cardiogena: Il pacing è indicato nelle condizioni bradiaritmiche associate a sincope.",
+    "options": [
+      "fibrillazione atriale",
+      "SCD",
+      "fibrillazione ventricolare",
+      "BAV",
+      "sincope"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "B"
+  },
+  {
+    "id": "q159",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 12,
+    "explanation": "Concetto chiave del materiale: TAKE HOME MESSAGES La stratificazione del rischio è importante nel management del paziente con sincope.",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTAKE HOME MESSAGES La stratificazione del rischio è importante nel management del paziente con ________.",
+    "options": [
+      "BAV",
+      "fibrillazione ventricolare",
+      "shock cardiogeno",
+      "fibrillazione atriale",
+      "sincope"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "C"
+  },
+  {
+    "id": "q160",
+    "source": "6 Strisciugno Sincope.pdf",
+    "page": 5,
+    "explanation": "Concetto chiave del materiale: Nelle forme cardionibitorie: si esegue MSC, si somministra atropina, aumenta la frequenza cardiaca, il paziente non presenta più sincope.",
+    "topic": "Strisciugno Sincope",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNelle forme cardionibitorie: si esegue MSC, si somministra atropina, aumenta la frequenza cardiaca, il paziente non presenta più ________.",
+    "options": [
+      "SCD",
+      "fibrillazione atriale",
+      "sincope",
+      "BAV",
+      "fibrillazione ventricolare"
+    ],
+    "answer": "sincope",
+    "displayAnswer": "sincope",
+    "set": "D"
+  },
+  {
+    "id": "q161",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 9,
+    "explanation": "Concetto chiave del materiale: 2, quindi è una tachicardia da rientro atrioventricolare da via accessoria laterale sinistra. E’.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "image": "assets/figures/23-p009.jpg",
+    "imageAlt": "Figura tratta da 6. Strisciuglio Wolff Parkinson White.pdf, pagina 9",
+    "imagePage": 9,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n2, quindi è una tachicardia da rientro atrioventricolare da ________ laterale sinistra. E’.",
+    "options": [
+      "sistema di Purkinje",
+      "via accessoria",
+      "via rapida",
+      "nodo AV",
+      "via lenta"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "A"
+  },
+  {
+    "id": "q162",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Quelli che hanno una periodo refrattario effettivo della via accessoria inferiore a 250 ms.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuelli che hanno una periodo refrattario effettivo della ________ inferiore a 250 ms.",
+    "options": [
+      "fascio di His",
+      "nodo AV",
+      "sistema di Purkinje",
+      "via lenta",
+      "via accessoria"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "B"
+  },
+  {
+    "id": "q163",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: Quello che possiamo fare durante il mappaggio in tachicardia da rientro atrioventricolare è il mappaggio in open window, in questo modo il sistema sarà in grado di dirmi dov ’è la via accessoria .",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuello che possiamo fare durante il mappaggio in tachicardia da rientro atrioventricolare è il mappaggio in open window, in questo modo il sistema sarà in grado di dirmi dov ’è la ________ .",
+    "options": [
+      "nodo AV",
+      "fascio di His",
+      "via rapida",
+      "sistema di Purkinje",
+      "via accessoria"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "C"
+  },
+  {
+    "id": "q164",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Quindi quando vedo che il QRS da largo diventa stretto quella è la refrattarietà della via accessoria.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nQuindi quando vedo che il QRS da largo diventa stretto quella è la refrattarietà della ________.",
+    "options": [
+      "sistema di Purkinje",
+      "via lenta",
+      "via rapida",
+      "nodo AV",
+      "via accessoria"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "D"
+  },
+  {
+    "id": "q165",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: A volte sono presenti più vie accessorie soprattutto nei p azienti che hanno una cardiopatia strutturale associata e ovviamente in questo caso la morfologia dell ’ECG non sarà sempre chiarissima. Questi algoritmi sono veri in chi ha una via accessoria manifesta.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nA volte sono presenti più vie accessorie soprattutto nei p azienti che hanno una cardiopatia strutturale associata e ovviamente in questo caso la morfologia dell ’ECG non sarà sempre chiarissima. Questi algoritmi sono veri in chi ha una ________ manifesta.",
+    "options": [
+      "via rapida",
+      "via lenta",
+      "sistema di Purkinje",
+      "nodo AV",
+      "via accessoria"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "A"
+  },
+  {
+    "id": "q166",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: ECG, diagnosi di sede e studio elettrofisiologico nel WPW Fasci accessori: definizione e fisiopatologia I fasci accessori sono dei fasci muscolari che uniscono gli atri ai ventricoli e non sono altro che dei residui embriologici dovuti all’incompleto sviluppo degli anelli fibrosi atrioventricolari.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nECG, diagnosi di sede e studio elettrofisiologico nel ________ Fasci accessori: definizione e fisiopatologia I fasci accessori sono dei fasci muscolari che uniscono gli atri ai ventricoli e non sono altro che dei residui embriologici dovuti all’incompleto sviluppo degli anelli fibrosi atrioventricolari.",
+    "options": [
+      "CPVT",
+      "QT corto",
+      "WPW",
+      "QT lungo",
+      "AVNRT"
+    ],
+    "answer": "WPW",
+    "displayAnswer": "WPW",
+    "set": "B"
+  },
+  {
+    "id": "q167",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 14,
+    "explanation": "Concetto chiave del materiale: In bianco l’anello tricuspidalico e quel punto blu rappresenta la via accessoria in cui avviene il passaggio di segnale, che sarà il nostro target per l ’ablazione.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn bianco l’anello tricuspidalico e quel punto blu rappresenta la ________ in cui avviene il passaggio di segnale, che sarà il nostro target per l ’ablazione.",
+    "options": [
+      "fascio di His",
+      "via rapida",
+      "via accessoria",
+      "nodo AV",
+      "sistema di Purkinje"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "C"
+  },
+  {
+    "id": "q168",
+    "source": "6. Strisciuglio Wolff Parkinson White.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: In realtà diversi studi hanno poi dimostrato che la prova da sforzo per giudicare la benignità di una via accessoria non è efficace e quindi è sempre indicato fare un SEF.",
+    "topic": "Strisciuglio Wolff Parkinson White",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn realtà diversi studi hanno poi dimostrato che la prova da sforzo per giudicare la benignità di una ________ non è efficace e quindi è sempre indicato fare un SEF.",
+    "options": [
+      "via lenta",
+      "fascio di His",
+      "nodo AV",
+      "via accessoria",
+      "sistema di Purkinje"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "D"
+  },
+  {
+    "id": "q169",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 14,
+    "explanation": "Concetto chiave del materiale: 2) double fire: il circuito da rientro continua e può attivare due volte il ventricolo mentre attiva solo una volta l’atrio.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "image": "assets/figures/24-p019.jpg",
+    "imageAlt": "Figura tratta da 7. Vergara Tachicardia da rientro nodale 2.pdf, pagina 19",
+    "imagePage": 19,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n2) double fire: il circuito da ________ continua e può attivare due volte il ventricolo mentre attiva solo una volta l’atrio.",
+    "options": [
+      "bradicardia",
+      "tachicardia ventricolare",
+      "attività triggerata",
+      "automatismo",
+      "rientro"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "A"
+  },
+  {
+    "id": "q170",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 23,
+    "explanation": "Concetto chiave del materiale: La caratteristica distintiva è però la continuità del circuito di rientro senza interruzioni stabili, che spiega la tendenza clinica a essere incessante o quasi incessante.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa caratteristica distintiva è però la continuità del circuito di ________ senza interruzioni stabili, che spiega la tendenza clinica a essere incessante o quasi incessante.",
+    "options": [
+      "automatismo",
+      "bradicardia",
+      "attività triggerata",
+      "rientro",
+      "tachicardia ventricolare"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "B"
+  },
+  {
+    "id": "q171",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: La seconda tachiaritmia per frequenza dopo la fibrillazione atriale La tachicardia da rientro nodale atrioventricolare (TRNAV, o AVNRT) rappresenta la tachicardia parossistica sopraventricolare più frequente nell’adulto e costituisce circa il 50- 60% di tutte le TPSV regolari a QRS stretto.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa seconda tachiaritmia per frequenza dopo la fibrillazione atriale La ________ atrioventricolare (TRNAV, o AVNRT) rappresenta la tachicardia parossistica sopraventricolare più frequente nell’adulto e costituisce circa il 50- 60% di tutte le TPSV regolari a QRS stretto.",
+    "options": [
+      "scintigrafia miocardica",
+      "tachicardia da rientro nodale",
+      "instantaneous wave-free ratio",
+      "microvascular obstruction",
+      "contropulsatore aortico"
+    ],
+    "answer": "tachicardia da rientro nodale",
+    "displayAnswer": "tachicardia da rientro nodale",
+    "set": "C"
+  },
+  {
+    "id": "q172",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 20,
+    "explanation": "Concetto chiave del materiale: In questa diapositiva si vede in modo tridimensionale come sono localizzate le varie componenti del circuito da rientro.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn questa diapositiva si vede in modo tridimensionale come sono localizzate le varie componenti del circuito da ________.",
+    "options": [
+      "tachicardia ventricolare",
+      "preeccitazione",
+      "rientro",
+      "automatismo",
+      "bradicardia"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "D"
+  },
+  {
+    "id": "q173",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 22,
+    "explanation": "Concetto chiave del materiale: Tra queste, un’entità particolarmente rilevante è la tachicardia reciprocante giunzionale permanente (PJRT, Permanent Junctional Reciprocating Tachycardia), una forma di tachicardia da rientro AV mediata da una via accessoria.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTra queste, un’entità particolarmente rilevante è la tachicardia reciprocante giunzionale permanente (PJRT, Permanent Junctional Reciprocating Tachycardia), una forma di tachicardia da rientro AV mediata da una ________.",
+    "options": [
+      "sistema di Purkinje",
+      "via accessoria",
+      "via lenta",
+      "fascio di His",
+      "nodo AV"
+    ],
+    "answer": "via accessoria",
+    "displayAnswer": "via accessoria",
+    "set": "A"
+  },
+  {
+    "id": "q174",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 6,
+    "explanation": "Concetto chiave del materiale: Volendo schematizzare, ci sono tutte le zone di transizione tra la superficie del miocardio.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nVolendo schematizzare, ci sono tutte le zone di transizione tra la superficie del ________.",
+    "options": [
+      "atrio sinistro",
+      "epicardio",
+      "microcircolo",
+      "miocardio",
+      "endocardio"
+    ],
+    "answer": "miocardio",
+    "displayAnswer": "miocardio",
+    "set": "B"
+  },
+  {
+    "id": "q175",
+    "source": "7. Vergara Tachicardia da rientro nodale 2.pdf",
+    "page": 19,
+    "explanation": "Concetto chiave del materiale: Esistono anche altri segnali simili, descritti da altri autori, che aiutano a riconoscere la slow pathway, ma il concetto fondamentale è sempre lo stesso: si cerca un’attivazione elettrica caratteristica che indichi la presenza del tessuto responsabile del rientro.",
+    "topic": "Vergara Tachicardia da rientro nodale 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nEsistono anche altri segnali simili, descritti da altri autori, che aiutano a riconoscere la slow pathway, ma il concetto fondamentale è sempre lo stesso: si cerca un’attivazione elettrica caratteristica che indichi la presenza del tessuto responsabile del ________.",
+    "options": [
+      "attività triggerata",
+      "rientro",
+      "preeccitazione",
+      "tachicardia ventricolare",
+      "automatismo"
+    ],
+    "answer": "rientro",
+    "displayAnswer": "rientro",
+    "set": "C"
+  },
+  {
+    "id": "q176",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Le vecchie linee guida, che sono molto diffuse e probabilmente sono rimaste nella mente di molti, parlano di tre tipi di pattern Brugada, tipo 1, tipo 2 e tipo 3.",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "image": "assets/figures/25-p007.jpg",
+    "imageAlt": "Figura tratta da 8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf, pagina 7",
+    "imagePage": 7,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLe vecchie linee guida, che sono molto diffuse e probabilmente sono rimaste nella mente di molti, parlano di tre tipi di pattern ________, tipo 1, tipo 2 e tipo 3.",
+    "options": [
+      "Brugada",
+      "QT lungo",
+      "CPVT",
+      "WPW",
+      "QT corto"
+    ],
+    "answer": "Brugada",
+    "displayAnswer": "Brugada",
+    "set": "D"
+  },
+  {
+    "id": "q177",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 36,
+    "explanation": "Concetto chiave del materiale: Nei pazienti non responders al beta-bloccanti si può utilizzare la simpaticectomia, che è una manovra chirurgica di interruzione del ganglio stellato da un lato o addirittura bilateralmente (riduce gli eventi aritmici nel 90%).",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNei pazienti non responders al ________ si può utilizzare la simpaticectomia, che è una manovra chirurgica di interruzione del ganglio stellato da un lato o addirittura bilateralmente (riduce gli eventi aritmici nel 90%).",
+    "options": [
+      "calcio-antagonisti",
+      "ACE-inibitori",
+      "beta-bloccanti",
+      "nitrati",
+      "statina"
+    ],
+    "answer": "beta-bloccanti",
+    "displayAnswer": "beta-bloccanti",
+    "set": "A"
+  },
+  {
+    "id": "q178",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 19,
+    "explanation": "Concetto chiave del materiale: La cosa che sanno fare meglio questi score è predire chi non avrà eventi aritmici; cioè se avete un brugada risk score di 0 è molto probabile che il paziente non abbia eventi aritmici, lo potete quindi utilizzare come fattore protettivo.",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa cosa che sanno fare meglio questi score è predire chi non avrà eventi aritmici; cioè se avete un ________ risk score di 0 è molto probabile che il paziente non abbia eventi aritmici, lo potete quindi utilizzare come fattore protettivo.",
+    "options": [
+      "Brugada",
+      "QT corto",
+      "CPVT",
+      "AVNRT",
+      "QT lungo"
+    ],
+    "answer": "Brugada",
+    "displayAnswer": "Brugada",
+    "set": "B"
+  },
+  {
+    "id": "q179",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: La diagnosi di BrS può essere presa in considerazione (IIB) nei pazienti che non presentano altre patologie cardiache ma nei quali si riscontra un pattern ECG di tipo 1 non spontaneo.",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa diagnosi di ________ può essere presa in considerazione (IIB) nei pazienti che non presentano altre patologie cardiache ma nei quali si riscontra un pattern ECG di tipo 1 non spontaneo.",
+    "options": [
+      "PET",
+      "BRS",
+      "SPECT",
+      "INOCA",
+      "CMD"
+    ],
+    "answer": "BRS",
+    "displayAnswer": "BRS",
+    "set": "C"
+  },
+  {
+    "id": "q180",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Se andiamo a vedere all'opposto, all'interno delle casistiche di pazienti deceduti improv visamente, il pattern Brugada viene riscontrato nel 28% dei morti.",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nSe andiamo a vedere all'opposto, all'interno delle casistiche di pazienti deceduti improv visamente, il pattern ________ viene riscontrato nel 28% dei morti.",
+    "options": [
+      "WPW",
+      "CPVT",
+      "AVRT",
+      "QT corto",
+      "Brugada"
+    ],
+    "answer": "Brugada",
+    "displayAnswer": "Brugada",
+    "set": "D"
+  },
+  {
+    "id": "q181",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: Ci sono una serie di studi di risonanza magnetica e anche test autoptici che hanno rilevato.",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nCi sono una serie di studi di ________ e anche test autoptici che hanno rilevato.",
+    "options": [
+      "potenziale d’azione",
+      "circolazione extracorporea",
+      "scintigrafia miocardica",
+      "risonanza magnetica",
+      "tachicardia ventricolare"
+    ],
+    "answer": "risonanza magnetica",
+    "displayAnswer": "risonanza magnetica",
+    "set": "A"
+  },
+  {
+    "id": "q182",
+    "source": "8. Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2.pdf",
+    "page": 24,
+    "explanation": "Concetto chiave del materiale: Esistono tanti studi multicentrici sull’ablazione del brugada, due sono molto importanti.",
+    "topic": "Vergara Sindromi Genetiche Vergara (Brugada, ER, CPVT) 2",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nEsistono tanti studi multicentrici sull’ablazione del ________, due sono molto importanti.",
+    "options": [
+      "Brugada",
+      "QT lungo",
+      "AVNRT",
+      "WPW",
+      "AVRT"
+    ],
+    "answer": "Brugada",
+    "displayAnswer": "Brugada",
+    "set": "B"
+  },
+  {
+    "id": "q183",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 18,
+    "explanation": "Concetto chiave del materiale: Il documento evidenzia che l’ecostress può aiutare a distinguere endotipi diversi: basso rischio, disfunzione microvascolare, vasospasmo o quadri a rischio più elevato.",
+    "topic": "Ciampi Ecostress",
+    "image": "assets/figures/26-p007.jpg",
+    "imageAlt": "Figura tratta da 9. Ciampi Ecostress.pdf, pagina 7",
+    "imagePage": 7,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIl documento evidenzia che l’ecostress può aiutare a distinguere endotipi diversi: basso rischio, ________, vasospasmo o quadri a rischio più elevato.",
+    "options": [
+      "disfunzione microvascolare",
+      "aterosclerosi diffusa",
+      "ischemia inducibile",
+      "vasospasmo coronarico",
+      "malattia epicardica"
+    ],
+    "answer": "disfunzione microvascolare",
+    "displayAnswer": "disfunzione microvascolare",
+    "set": "C"
+  },
+  {
+    "id": "q184",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: Nella pratica clinica si campiona soprattutto la porzione medio-distale dell’IVA, poiché è il segmento più facilmente identificabile e quello con maggiore valore prognostico.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNella pratica clinica si campiona soprattutto la porzione medio-distale dell’________, poiché è il segmento più facilmente identificabile e quello con maggiore valore prognostico.",
+    "options": [
+      "arteria radiale",
+      "arteria mammaria interna",
+      "LAD",
+      "RCA",
+      "IVA"
+    ],
+    "answer": "IVA",
+    "displayAnswer": "IVA",
+    "set": "D"
+  },
+  {
+    "id": "q185",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: Da evitare in pazienti con storia di aritmie  Vasodilattore (Dipiridamolo o Adenosina): provocano furto coronarico e sono indicati soprattutto per lo studio della riserva coronarica.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDa evitare in pazienti con storia di aritmie  Vasodilattore (Dipiridamolo o Adenosina): provocano furto coronarico e sono indicati soprattutto per lo studio della ________.",
+    "options": [
+      "preeccitazione",
+      "beta-bloccanti",
+      "riserva coronarica",
+      "adenosina",
+      "QT lungo"
+    ],
+    "answer": "riserva coronarica",
+    "displayAnswer": "riserva coronarica",
+    "set": "A"
+  },
+  {
+    "id": "q186",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 4,
+    "explanation": "Concetto chiave del materiale: Viene utilizzata solo per la valutazione della riserva di flusso coronarico In Italia la Dobutamina è lo stressore più utilizzato, seguito da Dipiridamolo, esercizio e infine adenosina.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nViene utilizzata solo per la valutazione della riserva di flusso coronarico In Italia la Dobutamina è lo stressore più utilizzato, seguito da Dipiridamolo, esercizio e infine ________.",
+    "options": [
+      "colchicina",
+      "aspirina",
+      "adenosina",
+      "prasugrel",
+      "clopidogrel"
+    ],
+    "answer": "adenosina",
+    "displayAnswer": "adenosina",
+    "set": "B"
+  },
+  {
+    "id": "q187",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 1,
+    "explanation": "Concetto chiave del materiale: Metodiche non invasive nel sospetto CAD: Ecostress Il documento è un consensus clinico EACVI/ESC sull’uso dell’ecostress.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nMetodiche non invasive nel sospetto ________: Ecostress Il documento è un consensus clinico EACVI/ESC sull’uso dell’ecostress.",
+    "options": [
+      "SCAD",
+      "CAD",
+      "ANOCA",
+      "STEMI",
+      "INOCA"
+    ],
+    "answer": "CAD",
+    "displayAnswer": "CAD",
+    "set": "C"
+  },
+  {
+    "id": "q188",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 15,
+    "explanation": "Concetto chiave del materiale: In questi casi il “tetto” della riserva coronarica si riduce perché il flusso basale è già elevato.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn questi casi il “tetto” della ________ si riduce perché il flusso basale è già elevato.",
+    "options": [
+      "Brugada",
+      "automatismo",
+      "arteria radiale",
+      "defibrillatore",
+      "riserva coronarica"
+    ],
+    "answer": "riserva coronarica",
+    "displayAnswer": "riserva coronarica",
+    "set": "D"
+  },
+  {
+    "id": "q189",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Dipiridamolo e Adenosina: il loro effetto principale è indurre iperemia coronarica e redistribuzione del flusso, vengono quindi utilizzati soprattutto per la valutazione della perfusione miocardica, della velocità di flusso coronarico e per lo studio del microcircolo.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDipiridamolo e ________: il loro effetto principale è indurre iperemia coronarica e redistribuzione del flusso, vengono quindi utilizzati soprattutto per la valutazione della perfusione miocardica, della velocità di flusso coronarico e per lo studio del microcircolo.",
+    "options": [
+      "clopidogrel",
+      "eparina",
+      "ticagrelor",
+      "adenosina",
+      "aspirina"
+    ],
+    "answer": "adenosina",
+    "displayAnswer": "adenosina",
+    "set": "A"
+  },
+  {
+    "id": "q190",
+    "source": "9. Ciampi Ecostress.pdf",
+    "page": 20,
+    "explanation": "Concetto chiave del materiale: In sintesi: l’ecostress viene indicato come metodica funzionale multidimensionale, sostenibile, senza radiazioni, utile nella CAD cronica ma anche oltre la coronaropatia, soprattutto in INOCA, scompenso, valvulopatie, cardiomiopatia ipertrofica e alcune cardiopatie congenite.",
+    "topic": "Ciampi Ecostress",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nIn sintesi: l’ecostress viene indicato come metodica funzionale multidimensionale, sostenibile, senza radiazioni, utile nella CAD cronica ma anche oltre la coronaropatia, soprattutto in ________, scompenso, valvulopatie, cardiomiopatia ipertrofica e alcune cardiopatie congenite.",
+    "options": [
+      "CAD",
+      "INOCA",
+      "MINOCA",
+      "ANOCA",
+      "NSTEMI"
+    ],
+    "answer": "INOCA",
+    "displayAnswer": "INOCA",
+    "set": "B"
+  },
+  {
+    "id": "q191",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 3,
+    "explanation": "Concetto chiave del materiale: Negli anni a seguire sono state testate più o meno tutte le strategie con una delle svolte principali arrivata negli anni 2009 e 2010 con l’avvento di prasugrel e ticagrelor.",
+    "topic": "Lezione Gargiulo 2026",
+    "image": "assets/figures/27-p001.jpg",
+    "imageAlt": "Figura tratta da Lezione Gargiulo 2026.pdf, pagina 1",
+    "imagePage": 1,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nNegli anni a seguire sono state testate più o meno tutte le strategie con una delle svolte principali arrivata negli anni 2009 e 2010 con l’avvento di prasugrel e ________.",
+    "options": [
+      "eparina",
+      "aspirina",
+      "ticagrelor",
+      "colchicina",
+      "clopidogrel"
+    ],
+    "answer": "ticagrelor",
+    "displayAnswer": "ticagrelor",
+    "set": "C"
+  },
+  {
+    "id": "q192",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 16,
+    "explanation": "Concetto chiave del materiale: DI e aVL, pur non essendo continue nel display classico a 12 derivazioni, rappresentano la parete laterale alta, per cui questo pattern non è STEMI ma può essere indicativo di OMI per occlusione del primo ramo diagonale dell'IVA (o del ramo intermedio).",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDI e aVL, pur non essendo continue nel display classico a 12 derivazioni, rappresentano la parete laterale alta, per cui questo pattern non è ________ ma può essere indicativo di OMI per occlusione del primo ramo diagonale dell'IVA (o del ramo intermedio).",
+    "options": [
+      "SCAD",
+      "NSTEMI",
+      "MINOCA",
+      "STEMI",
+      "CAD"
+    ],
+    "answer": "STEMI",
+    "displayAnswer": "STEMI",
+    "set": "D"
+  },
+  {
+    "id": "q193",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 2,
+    "explanation": "Concetto chiave del materiale: La lunga storia della terapia antitrombotica è andata avanti con numerosi studi di confronto aspirina vs warfarin, aspirina vs clopidogrel fino agli studi sulla DAPT: nel 1996, lo studio ISAR dimostrò la superiorità della DAPT vs anticoagulante dopo BMS.",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nLa lunga storia della terapia antitrombotica è andata avanti con numerosi studi di confronto aspirina vs warfarin, aspirina vs ________ fino agli studi sulla DAPT: nel 1996, lo studio ISAR dimostrò la superiorità della DAPT vs anticoagulante dopo BMS.",
+    "options": [
+      "ticagrelor",
+      "aspirina",
+      "clopidogrel",
+      "prasugrel",
+      "eparina"
+    ],
+    "answer": "clopidogrel",
+    "displayAnswer": "clopidogrel",
+    "set": "A"
+  },
+  {
+    "id": "q194",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 7,
+    "explanation": "Concetto chiave del materiale: 1. All’aspirina viene aggiunto il metabolita attivo del prasugrel; si misura l'inibizione dell'aggregazione piastrinica e il risultato era un incremento sostanziale.",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n1. All’aspirina viene aggiunto il metabolita attivo del ________; si misura l'inibizione dell'aggregazione piastrinica e il risultato era un incremento sostanziale.",
+    "options": [
+      "adenosina",
+      "prasugrel",
+      "clopidogrel",
+      "ticagrelor",
+      "eparina"
+    ],
+    "answer": "prasugrel",
+    "displayAnswer": "prasugrel",
+    "set": "B"
+  },
+  {
+    "id": "q195",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 29,
+    "explanation": "Concetto chiave del materiale: Dispositivo d’assistenza ventricolare (pompa cardiaca microassiale intravascolare) che riduce la mortalità nello shock cardiogeno (dati del DANGER-SHOCK trial, riduzione circa del 13%).",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nDispositivo d’assistenza ventricolare (pompa cardiaca microassiale intravascolare) che riduce la mortalità nello ________ (dati del DANGER-SHOCK trial, riduzione circa del 13%).",
+    "options": [
+      "fibrillazione atriale",
+      "fibrillazione ventricolare",
+      "BAV",
+      "sincope",
+      "shock cardiogeno"
+    ],
+    "answer": "shock cardiogeno",
+    "displayAnswer": "shock cardiogeno",
+    "set": "C"
+  },
+  {
+    "id": "q196",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 13,
+    "explanation": "Concetto chiave del materiale: Rimane la questione su cosa fare a distanza di 6-12 mesi nei pazienti con fibrillazione atriale stabilizzati.",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nRimane la questione su cosa fare a distanza di 6-12 mesi nei pazienti con ________ stabilizzati.",
+    "options": [
+      "fibrillazione ventricolare",
+      "SCD",
+      "fibrillazione atriale",
+      "sincope",
+      "shock cardiogeno"
+    ],
+    "answer": "fibrillazione atriale",
+    "displayAnswer": "fibrillazione atriale",
+    "set": "D"
+  },
+  {
+    "id": "q197",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 15,
+    "explanation": "Concetto chiave del materiale: Tuttavia, negli ultimi anni si è affermata una revisione critica del paradigma dicotomico STEMI/ NSTEMI a favore del concetto di Occlusion Myocardial Infarction (OMI).",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTuttavia, negli ultimi anni si è affermata una revisione critica del paradigma dicotomico STEMI/ ________ a favore del concetto di Occlusion Myocardial Infarction (OMI).",
+    "options": [
+      "CAD",
+      "ANOCA",
+      "MINOCA",
+      "NSTEMI",
+      "SCAD"
+    ],
+    "answer": "NSTEMI",
+    "displayAnswer": "NSTEMI",
+    "set": "A"
+  },
+  {
+    "id": "q198",
+    "source": "Lezione Gargiulo 2026.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: Trial analoghi e diverse metanalisi hanno confermato che accorciare la DAPT abbatte il rischio emorragico senza esporre a un eccesso di complicanze ischemiche.",
+    "topic": "Lezione Gargiulo 2026",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nTrial analoghi e diverse metanalisi hanno confermato che accorciare la ________ abbatte il rischio emorragico senza esporre a un eccesso di complicanze ischemiche.",
+    "options": [
+      "contropulsatore aortico",
+      "IABP",
+      "ECMO",
+      "DAPT",
+      "CTO"
+    ],
+    "answer": "DAPT",
+    "displayAnswer": "DAPT",
+    "set": "B"
+  },
+  {
+    "id": "q199",
+    "source": "guidelines 2023-SCA.pdf",
+    "page": 43,
+    "explanation": "Concetto chiave del materiale: 6095).347 In the large Enoxaparin and Thrombolysis Reperfusion for Acute myocardial infarction Treatment-Thrombolysis In Myocardial Infarction 25 (ExTRACT-TIMI 25) trial (n = 20 506), a lower dose 6.7.",
+    "topic": "guidelines 2023-SCA",
+    "image": "assets/figures/28-p055.jpg",
+    "imageAlt": "Figura tratta da guidelines 2023-SCA.pdf, pagina 55",
+    "imagePage": 55,
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\n6095).347 In the large Enoxaparin and Thrombolysis Reperfusion for Acute myocardial infarction Treatment-Thrombolysis In Myocardial Infarction 25 (ExTRACT-________ 25) trial (n = 20 506), a lower dose 6.7.",
+    "options": [
+      "FFR",
+      "IMR",
+      "TIMI",
+      "GRACE",
+      "CFR"
+    ],
+    "answer": "TIMI",
+    "displayAnswer": "TIMI",
+    "set": "C"
+  },
+  {
+    "id": "q200",
+    "source": "guidelines 2023-SCA.pdf",
+    "page": 8,
+    "explanation": "Concetto chiave del materiale: The selection procedure aimed to include TIMI Thrombolysis In Myocardial Infarction members from across the whole of the ESC region and from rele- TLR Target lesion revascularization vant ESC Subspecialty Communities.",
+    "topic": "guidelines 2023-SCA",
+    "type": "mcq",
+    "prompt": "Quale opzione completa correttamente l’affermazione?\nThe selection procedure aimed to include ________ Thrombolysis In Myocardial Infarction members from across the whole of the ESC region and from rele- TLR Target lesion revascularization vant ESC Subspecialty Communities.",
+    "options": [
+      "MACE",
+      "LVEF",
+      "TIMI",
+      "GRACE",
+      "iFR"
+    ],
+    "answer": "TIMI",
+    "displayAnswer": "TIMI",
+    "set": "D"
+  }
+]
