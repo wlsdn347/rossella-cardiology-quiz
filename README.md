@@ -1,4 +1,6 @@
-# Rossella’s Cardiology Quiz
+# Rossella's Cardiology Quiz
+
+Four 50-question cardiology tests generated from 29 study PDFs. The question bank focuses on concept understanding, clinical application, mechanism, differential diagnosis, test interpretation, and treatment decisions rather than sentence-completion recall.
 
 29개 심장학 PDF를 기반으로 만든 정적 퀴즈 사이트입니다.
 

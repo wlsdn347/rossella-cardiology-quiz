@@ -1,8 +1,8 @@
 const app = document.querySelector("#app");
 const sets = window.QUIZ_SETS;
-const resultStorageKey = "rossella-cardiology-results-v2";
-const wrongStorageKey = "rossella-cardiology-wrong-notes-v1";
-const historyStorageKey = "rossella-cardiology-history-v1";
+const resultStorageKey = "rossella-cardiology-results-v3-concept-bank";
+const wrongStorageKey = "rossella-cardiology-wrong-notes-v2-concept-bank";
+const historyStorageKey = "rossella-cardiology-history-v2-concept-bank";
 const allQuestions = Object.values(sets).flat();
 const questionsById = new Map(allQuestions.map(question => [question.id, question]));
 let session = null;
@@ -107,9 +107,9 @@ function showHome() {
       <div class="hero-inner">
         <span class="eyebrow">29 PDFS · 200 QUESTIONS</span>
         <h1>Study clearly.<br>Remember longer.</h1>
-        <p class="lead">Choose one of four 50-question tests. Every question has five options, followed by an immediate explanation and exact source page.</p>
+        <p class="lead">Choose one of four 50-question tests built around clinical reasoning, mechanisms, interpretation, and treatment decisions. Every answer includes an explanation and exact source page.</p>
         <div class="hero-meta">
-          <span class="pill">200 Multiple Choice</span><span class="pill">5 Options Each</span><span class="pill">Figures Included</span>
+          <span class="pill">200 Concept Questions</span><span class="pill">Clinical Application</span><span class="pill">Figures Included</span>
         </div>
       </div>
       <div class="sticker-field" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
@@ -121,7 +121,7 @@ function showHome() {
           const item = saved[id];
           return `<button class="set-card" type="button" data-set="${id}">
             <span class="set-letter set-${id.toLowerCase()}">${id}</span><h3>Test Set ${id}</h3>
-            <p>50 five-option multiple-choice questions with immediate feedback.</p>
+            <p>50 five-option concept and clinical-application questions with immediate feedback.</p>
             <span class="set-status">${item ? `Latest ${item.score}/${item.total} · Best ${item.best}/${item.total}` : "Start test →"}</span>
           </button>`;
         }).join("")}
@@ -156,7 +156,7 @@ function renderQuestion() {
     <div class="quiz-topline"><span class="eyebrow">${session.label}</span><span class="progress-label">Question ${session.index + 1} of ${session.questions.length} · Score ${session.score}</span></div>
     <div class="progress-track" aria-label="Progress"><div class="progress-bar" style="width:${progress}%"></div></div>
     <article class="question-card">
-      <div class="question-head"><span class="type-badge">SCELTA MULTIPLA</span><span class="topic">${escapeHtml(question.topic)}</span></div>
+      <div class="question-head"><span class="type-badge">MULTIPLE CHOICE</span><span class="topic">${escapeHtml(question.topic)}</span></div>
       ${question.image ? `<figure class="question-image"><img src="${escapeHtml(question.image)}" alt="${escapeHtml(question.imageAlt)}"><figcaption>Reference figure from the same PDF · Original p.${question.imagePage || question.page}</figcaption></figure>` : ""}
       <h2 class="prompt">${escapeHtml(question.prompt)}</h2>
       <div class="answer-area" id="answerArea">
